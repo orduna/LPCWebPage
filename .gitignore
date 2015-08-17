@@ -1,0 +1,16 @@
+# ignore non-text files
+*.gif
+*.jpg
+*.mov
+*.pdf
+*.png
+*.ppt
+
+# other files to be ignored
+.htaccess
+robots.txt
+
+# ignore symlinks `find . -type l >> .gitignore`
+./sakuma/cmsbook_bind/external/blueprint
+./sakuma/cmsbook_bind/external/jquery/jquery-jLinkPreview.js
+./sakuma/cmsbook_bind/external/jquery/jquery.js
