@@ -1,0 +1,83 @@
+<!--//****** Infinite Menu *****//-->
+<div id="imenuscontainer">
+	<div class="imcm imde" id="imouter0">
+		<ul id="imenus0">
+			
+            
+            <li class="first<!--#echo var='NAV1_CSS'-->"><a href="http://lpc.fnal.gov/index.shtml">Home</a>
+		</li><!-- /Home -->            
+
+            
+            <li class="<!--#echo var='NAV2_CSS'-->"><a href="/visiting/index.shtml">Visit LPC</a>
+		 </li><!-- /Visit LPC -->
+
+            
+                       
+            
+            <li class="<!--#echo var='NAV3_CSS'-->"><a href="http://lpc.fnal.gov/activities/index.shtml">Activities</a>
+            	<div class="imsc">
+			<div class="imsubc" id="submenu">
+            			<ul>
+                    
+                    		<li><a href="http://lpc.fnal.gov/programs/schools-workshops/index.shtml">Events</a></li>
+	                        <li><a href="http://lpc.fnal.gov/programs/topic/index.shtml">Topic of the Week</a></li>
+				<li><a href="http://lpc.fnal.gov/programs/lpcpf/index.shtml">Physics Forum</a></li>	
+				<li><a href="http://lpc.fnal.gov/coffeelpc/index.shtml">Coffee Hour</a></li>
+				<li><a href="http://lpc.fnal.gov/activities/others/index.shtml">Other activities</a></li>	
+							
+                        </ul>
+                	</div><!-- /imsc -->
+				</div><!-- /imsubc -->
+            </li><!-- /Activities -->
+            
+            
+            <li class="<!--#echo var='NAV4_CSS'-->"><a href="http://lpc.fnal.gov/fellows/index.shtml">Programs</a>
+            	<div class="imsc">
+                     <div class="imsubc" id="submenu">
+                         <ul>
+
+                             <li><a href="http://lpc.fnal.gov/fellows/2016.shtml">LPC Distinguished Researchers</a></li>
+			     <li><a href="http://lpc.fnal.gov/programs/guests-visitors/index.shtml">LPC Guest and Visitors</a></li>	
+
+                         </ul>
+                     </div><!-- /imsc -->
+				</div><!-- /imsubc -->
+            </li><!-- /Programs -->
+            
+            
+            <li class="<!--#echo var='NAV5_CSS'-->"><a href="/community/index.shtml">Community</a>
+            	<div class="imsc">
+                     <div class="imsubc" id="submenu">
+                         <ul>
+                             <li><a href="/community/faces/index.shtml">Faces of the LPC</a></li>
+                             <li><a href="/fellows/index_2015.shtml">LPC Distinguished Researchers - 
+Current</a></li>
+							
+                         </ul>
+                     </div><!-- /imsc -->
+				</div><!-- /imsubc -->
+            </li><!-- /Community -->
+                        
+            <li class="<!--#echo var='NAV6_CSS'-->"><a href="/calendars/index.shtml">Calendar</a>
+
+                   <div class="imsc">
+                     <div class="imsubc" id="submenu">
+                         <ul>
+                             <li><a href="/calendars/index.shtml">LPC Conf. Room Calendar</a></li>  
+                             <li><a href="/bulletin/index.shtml">LPC Bulletins</a></li>
+                         </ul>
+                     </div><!-- /imsc -->
+                                </div><!-- /imsubc -->
+            </li><!-- /Calendars -->
+
+
+            <li class="last <!--#echo var='NAV7_CSS'-->"><a href="/lpcorganisation/index.shtml">Organization</a>
+             </li><!-- /organisation -->
+            
+		</ul>		
+	</div>
+</div>
+
+<script language="javascript" src="/includes/js/nav.js" type="text/javascript"></script>
+<!--//****** END: Infinite Menu *****//-->
+
