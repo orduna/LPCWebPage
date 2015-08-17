@@ -35,10 +35,9 @@
             	<div class="imsc">
                      <div class="imsubc" id="submenu">
                          <ul>
-
-                             <li><a href="http://lpc.fnal.gov/fellows/2016.shtml">LPC Distinguished Researchers</a></li>
+                             <li><a href="http://lpc.fnal.gov/programs/graduate-scholars/">LPC Graduate Scholars</a></li>
 			     <li><a href="http://lpc.fnal.gov/programs/guests-visitors/index.shtml">LPC Guest and Visitors</a></li>	
-
+                             <li><a href="http://lpc.fnal.gov/fellows/2016.shtml">LPC Distinguished Researchers</a></li>
                          </ul>
                      </div><!-- /imsc -->
 				</div><!-- /imsubc -->
