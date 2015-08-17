@@ -31,7 +31,7 @@
             </li><!-- /Activities -->
             
             
-            <li class="<!--#echo var='NAV4_CSS'-->"><a href="http://lpc.fnal.gov/fellows/index.shtml">Programs</a>
+            <li class="<!--#echo var='NAV4_CSS'-->"><a href="http://lpc.fnal.gov/programs">Programs</a>
             	<div class="imsc">
                      <div class="imsubc" id="submenu">
                          <ul>
