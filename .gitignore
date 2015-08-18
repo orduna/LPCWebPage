@@ -5,6 +5,8 @@
 *.pdf
 *.png
 *.ppt
+*.pptx
+*.zip
 
 # other files to be ignored
 .htaccess
