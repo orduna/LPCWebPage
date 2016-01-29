@@ -7,7 +7,6 @@
 <!--#set var="NAV6_CSS" value=""-->
 <!--#set var="NAV7_CSS" value="active"-->
 
-
 <!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
 <!--//========== DO NOT REMOVE CODE ABOVE =========//-->
 
@@ -20,59 +19,58 @@
 <br>
 <h3>LPC Management Board  <a href="lpcmbfellow_meetings.shtml">(meetings)</a> </h3>
 <li>Kerstin Borras (DESY)</li>
-<li>Tulika Bose (Boston, USCMS)</li>
-<li>Frank Chlebana (FNAL)</li>
-<li>Sridhara Dasu (Wisconsin)</li>
-<li>Nick Hadley (Maryland, USCMS)</li>
-<li>Teruki Kamon (Texas A&M)</li>
-<li>Boaz Klima (FNAL, <font color=ecb000 >Chair</font>)</li>
-<li>Luca Malgeri (CERN, CMS Physics Coordinator)</li>
-<li>Meenakshi Narain (Brown, <font color=ecb000 >Chair</font>)</li>
-<li>Paul Padley (Rice)</li> 
-<li>Jeff Spalding (FNAL)</li>
-<li>David Stuart (UCSB)</li>
-<br>
-<br>
-<h3>LPC Guests & Visitors Committee</h3>
-<li>Ken Bloom (Nebraska)</li>
 <li>Tulika Bose (Boston)</li>
-<li>Jaco Konigsberg (Florida, <font color=ecb000 >Chair</font>)</li>
-<li>Neeti Parashar (Purdue-Calumet)</li>
+<li>Sridhara Dasu (Wisconsin, USCMS)</li>
+<li>Rob Harris (FNAL)</li>
+<li>Joe Incandela (UCSB)</li>
+<li>Teruki Kamon (Texas A&amp;M)</li>
+<li>Boaz Klima (FNAL, <font color=ecb000 >Chair</font>)</li>
+<li>Jim Olsen (Princeton, CMS Physics Coordinator)</li>
+<li>Meenakshi Narain (Brown, <font color=ecb000 >Chair</font>)</li>
+<li>Manfred Paulini (CMU)</li>
+<li>Jeff Spalding (FNAL)</li>
+<br>
+<br>
+<h3>LPC Guests &amp; Visitors Committee</h3>
+<li>Rick Cavanaugh (UIC/FNAL)</li>
+<li>Eva Halkiadakis (Rutgers)</li>
+<li>Ken Hatakeyama (Baylor, <font color=ecb000 >Chair</font>)</li>
+<li>Ulrich Heintz (Brown)</li>
 <li>Lenny Spiegel (FNAL)</li>
 <li>Mayda Velasco (Northwestern)</li>
+<li>Frank Wuerthwein (UCSD)</li>
 <br>
-<br> 
+<br>
 <h3>LPC Events Committee</h3>
-<li>Jake Anderson (FNAL)</li>
 <li>Robin Erbacher (UC Davis)</li>
-<li>Frank Golf (UCSB)</li>
-<li>Ulrich Heintz (Brown)</li>
-<li>Mike Hildreth (Notre Dame, <font color=ecb000 >Chair</font>)</li>
-<li>Sudhir Malik (Nebraska, <font color=ecb000 >Chair</font>)</li>
+<li>Cecilia Gerber (UIC)</li>
+<li>Sudhir Malik (UPRM, <font color=ecb000>Chair</font>)</li>
+<li>Yurii Maravin (KSU)</li>
+<li>Jane Nachtman (Iowa)</li>
 <li>Sanjay Padhi (UCSD)</li>
-<li>Seema Sharma (IISER Pune, India)</li>
+<li>Andrew Whitbeck (FNAL, <font color=ecb000>Chair</font>)</li>
+<li>Marc Weinberg (Florida State)</li>
 <br>
 <br>
 <h3>LPC Topic of the Week Committee</h3>
-<li>Suvadeep Bose (Nebraska)</li>
+<li>Artur Apresyan (Caltech, <font color=ecb000 >Chair</font>)</li>
 <li>Bogdan Dobrescu (FNAL, Theorist)</li>
-<li>Alexey Ferapontov (Brown, <font color=ecb000 >Chair</font>)</li>
 <li>Roni Harnik (FNAL, Theorist)</li>
 <li>Jim Hirschauer (FNAL, <font color=ecb000 >Chair</font>)</li>
-<li>Verena Martinez Outschoorn (FNAL)</li>
-<li>Manfred Paulini (CMU)</li>
+<li>Hongxuan Liu (Baylor)</li>
+<li>Sal Rappoccio (Buffalo)</li>
+<li>Lovedeep Saini (KSU)</li>
 <li>John Stupak (Purdue-Calumet)</li>
-<li>Nhan Tran (FNAL)</li>
 <br>
 <br>
 <h3>LPC Physics Forum</h3>
-<li>Andrew Askew (FSU)
-<li>Tulika Bose (Boston)
-<li>Sridhara Dasu (Wisconsin)
+<li>Andrew Askew (FSU)</li>
+<li>Sridhara Dasu (Wisconsin)</li>
+<li>Nhan Tran (FNAL)</li>
 <br>
 <br>
 <h3>LPC Coffee Hour</h3>
+<li>Souvik Das (Florida)</li>
 <li>Kaori Maeshima (FNAL)</li>
-<li>Macr Weinberg (Florida State)</li>
 
 <!--//========== DO NOT REMOVE CODE BELOW =========//-->
