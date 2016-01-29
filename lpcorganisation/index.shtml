@@ -1,0 +1,79 @@
+<!--#set var="TITLE" value="Calendar | Weekly"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value=""-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value="active"-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+<h3>LPC Coordinators</h3>
+<li>Rick Cavanaugh (UIC/FNAL)</li>
+<li>Boaz Klima (FNAL)</li>
+<li>Meenakshi Narain (Brown)</li>
+<br>
+<br>
+<h3>LPC Management Board</h3>
+<li>Jim Alexander (Cornell)</li>
+<li>Kerstin Borras (DESY)</li>
+<li>Kevin Burkett (FNAL)</li>
+<li>Rick Cavanaugh (UIC/FNAL, <font color=ecb000 >Chair</font>)</li>
+<li>Frank Chlebana (FNAL)</li>
+<li>Sridhara Dasu (Wisconsin)</li>
+<li>Daniel Elvira (FNAL)</li>
+<li>Yuri Gershtein (Rutgers, USCMS)</li>
+<li>Nick Hadley (Maryland, USCMS)</li>
+<li>Boaz Klima (FNAL, <font color=ecb000 >Chair</font>)</li>
+<li>Greg Landsberg (Brown, CMS Physics Coordinator)</li>
+<li>Meenakshi Narain (Brown, <font color=ecb000 >Chair</font>)</li>
+<li>Paul Padley (Rice)</li>
+<li>David Stuart (UCSB)</li>
+<br>
+<br>
+<h3>LPC Guests & Visitors Committee</h3>
+<li>Ken Bloom (Nebraska)</li>
+<li>Tulika Bose (BU)</li>
+<li>Jaco Konigsberg (Florida, <font color=ecb000 >Chair</font>)</li>
+<li>Neeti Parashar (Purdue-Calumet)</li>
+<li>Lenny Spiegel (FNAL)</li>
+<li>Mayda Velasco (Northwestern)</li>
+<br>
+<br> 
+<h3>LPC Events Committee</h3>
+<li>Frank Golf (UCSB)</li>
+<li>Andrei Gritsan (JHU)</li>
+<li>Mike Hildreth (Notre Dame, <font color=ecb000 >Chair</font>)</li>
+<li>Sudhir Malik (Nebraska, <font color=ecb000 >Chair</font>)</li>
+<li>Seema Sharma (FNAL)</li>
+<li>Eric Vaandering (FNAL)</li>
+<br>
+<br>
+<h3>LPC Topic of the Week Committee</h3>
+<li>Suvadeep Bose (Nebraska)</li>
+<li>Alexey Ferapontov (Brown, <font color=ecb000 >Chair</font>)</li>
+<li>Yanyan Gao (FNAL)</li>
+<li>Roni Harnik (FNAL, Theorist)</li>
+<li>Sarah Malik (Rockefeller, <font color=ecb000 >Chair</font>)</li>
+<li>Yurii Maravin (KSU)</li>
+<li>Sanjay Padhi (UCSD)</li>  
+<li>Manfred Paulini (CMU)</li>
+<li>Kevin Stenson (Colorado)</li>
+<li>Nhan Tran (FNAL)</li>
+<br>
+<br>
+<h3>LPC Physics Forum</h3>
+<li>Andrew Askew (FSU)
+<li>Yuri Gershtein (Rutgers)
+<br>
+<br>
+<h3>LPC Coffee Hour</h3>
+<li>Jacon Linacre (FNAL)</li>
+<li>Kalanand Mishra (FNAL)</li>
+<li>Kaori Maeshima (FNAL)</li>
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
+<!--#include virtual="/includes/templates/template-subpage-bottom.shtml"-->
