@@ -1,4 +1,4 @@
-<!--#set var="TITLE" value="Calendar | Weekly"-->
+<!--#set var="TITLE" value="LPC Organization"-->
 <!--#set var="NAV1_CSS" value=""-->
 <!--#set var="NAV2_CSS" value=""-->
 <!--#set var="NAV3_CSS" value=""-->
@@ -11,66 +11,69 @@
 <!--//========== DO NOT REMOVE CODE ABOVE =========//-->
 
 <h3>LPC Coordinators</h3>
-<li>Boaz Klima (FNAL)</li>
-<li>Meenakshi Narain (Brown)</li>
-<br>
-<li><a href="http://lpc.fnal.gov/lpcorganisation/pastlpccoordinators.shtml"> (Past LPC coordinators)</a></li>
+<ul>
+    <li>Boaz Klima (FNAL)</li>
+    <li>Meenakshi Narain (Brown)</li>
+</ul>
+<a href="http://lpc.fnal.gov/lpcorganisation/pastlpccoordinators.shtml"> (Past LPC coordinators)</a>.
 <br>
 <br>
 <h3>LPC Management Board</h3>
-<li>Kerstin Borras (DESY)</li>
-<li>Tulika Bose (Boston)</li>
-<li>Sridhara Dasu (Wisconsin, USCMS)</li>
-<li>Rob Harris (FNAL)</li>
-<li>Joe Incandela (UCSB)</li>
-<li>Teruki Kamon (Texas A&amp;M)</li>
-<li>Boaz Klima (FNAL, <font color=ecb000 >Chair</font>)</li>
-<li>Jim Olsen (Princeton, CMS Physics Coordinator)</li>
-<li>Meenakshi Narain (Brown, <font color=ecb000 >Chair</font>)</li>
-<li>Manfred Paulini (CMU)</li>
-<li>Jeff Spalding (FNAL)</li>
-<br>
-<br>
+<ul>
+    <li>Tulika Bose (Boston)</li>
+    <li>Sridhara Dasu (Wisconsin, USCMS)</li>
+    <li>Guenther Dissertori (ETH, Zurich).</li>
+    <li>Sarah Eno (Maryland).</li>
+    <li>Rob Harris (FNAL)</li>
+    <li>Joe Incandela (UCSB)</li>
+    <li>Boaz Klima (FNAL, <font color=ecb000 >Chair</font>)</li>
+    <li>Jim Olsen (Princeton, CMS Physics Coordinator)</li>
+    <li>Meenakshi Narain (Brown, <font color=ecb000 >Chair</font>)</li>
+    <li>Manfred Paulini (CMU)</li>
+    <li>Lenny Spiegel (FNAL).</li>
+</ul>
 <h3>LPC Guests &amp; Visitors Committee</h3>
-<li>Rick Cavanaugh (UIC/FNAL)</li>
-<li>Eva Halkiadakis (Rutgers)</li>
-<li>Ken Hatakeyama (Baylor, <font color=ecb000 >Chair</font>)</li>
-<li>Ulrich Heintz (Brown)</li>
-<li>Lenny Spiegel (FNAL)</li>
-<li>Mayda Velasco (Northwestern)</li>
-<li>Frank Wuerthwein (UCSD)</li>
-<br>
-<br>
+<ul>
+    <li>Rick Cavanaugh (UIC/FNAL)</li>
+    <li>Eva Halkiadakis (Rutgers)</li>
+    <li>Ken Hatakeyama (Baylor, <font color=ecb000 >Chair</font>)</li>
+    <li>Ulrich Heintz (Brown)</li>
+    <li>Lenny Spiegel (FNAL)</li>
+    <li>Mayda Velasco (Northwestern)</li>
+    <li>Frank Wuerthwein (UCSD)</li>
+</ul>
 <h3>LPC Events Committee</h3>
-<li>Robin Erbacher (UC Davis)</li>
-<li>Cecilia Gerber (UIC)</li>
-<li>Sudhir Malik (UPRM, <font color=ecb000>Chair</font>)</li>
-<li>Yurii Maravin (KSU)</li>
-<li>Jane Nachtman (Iowa)</li>
-<li>Sanjay Padhi (UCSD)</li>
-<li>Andrew Whitbeck (FNAL, <font color=ecb000>Chair</font>)</li>
-<li>Marc Weinberg (Florida State)</li>
-<br>
-<br>
+<ul>
+    <li>Robin Erbacher (UC Davis)</li>
+    <li>Cecilia Gerber (UIC)</li>
+    <li>Sudhir Malik (UPRM, <font color=ecb000>Chair</font>)</li>
+    <li>Yurii Maravin (KSU)</li>
+    <li>Jane Nachtman (Iowa)</li>
+    <li>Sanjay Padhi (UCSD)</li>
+    <li>Andrew Whitbeck (FNAL, <font color=ecb000>Chair</font>)</li>
+    <li>Marc Weinberg (Florida State)</li>
+</ul>
 <h3>LPC Topic of the Week Committee</h3>
-<li>Artur Apresyan (Caltech, <font color=ecb000 >Chair</font>)</li>
-<li>Bogdan Dobrescu (FNAL, Theorist)</li>
-<li>Roni Harnik (FNAL, Theorist)</li>
-<li>Jim Hirschauer (FNAL, <font color=ecb000 >Chair</font>)</li>
-<li>Hongxuan Liu (Baylor)</li>
-<li>Sal Rappoccio (Buffalo)</li>
-<li>Lovedeep Saini (KSU)</li>
-<li>John Stupak (Purdue-Calumet)</li>
-<br>
-<br>
+<ul>
+    <li>Artur Apresyan (Caltech, <font color=ecb000 >Chair</font>)</li>
+    <li>Bogdan Dobrescu (FNAL, Theorist)</li>
+    <li>Roni Harnik (FNAL, Theorist)</li>
+    <li>Jim Hirschauer (FNAL, <font color=ecb000 >Chair</font>)</li>
+    <li>Hongxuan Liu (Baylor)</li>
+    <li>Sal Rappoccio (Buffalo)</li>
+    <li>Lovedeep Saini (KSU)</li>
+    <li>John Stupak (Purdue-Calumet)</li>
+</ul>
 <h3>LPC Physics Forum</h3>
-<li>Andrew Askew (FSU)</li>
-<li>Julie Hogan (Brown)</li>
-<li>Nhan Tran (FNAL)</li>
-<br>
-<br>
+<ul>
+    <li>Andrew Askew (FSU)</li>
+    <li>Julie Hogan (Brown)</li>
+    <li>Nhan Tran (FNAL)</li>
+</ul>
 <h3>LPC Coffee Hour</h3>
-<li>Souvik Das (Florida)</li>
-<li>Kaori Maeshima (FNAL)</li>
+<ul>
+    <li>Souvik Das (Florida)</li>
+    <li>Kaori Maeshima (FNAL)</li>
+</ul>
 
 <!--//========== DO NOT REMOVE CODE BELOW =========//-->
