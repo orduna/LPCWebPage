@@ -1,0 +1,92 @@
+<!--#set var="TITLE" value="Programs | Schools and Workshops"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+
+<h2>Tutorials, Workshops and Schools (CMSDAS)</h2>
+
+<h3 class="block-header-darkblue">HATS@LPC</h3>
+
+
+<h3 class="block-header-darkblue">Advance Workshops</h3>
+
+<dl class="thumbs">
+    <dt class="image"><img src="/images/thumbs/standard-model.jpg" alt="thumb" style="border-width: 0;" /></dt>
+    <dd class="text">
+ 
+	<h5 style="margin: 0 0 1.4em 0;"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=199210">GED (Global Event Description)  workshop (CMS) at FNAL<br/>
+        <span class="no-bold">Aug 20-22, 2012</span></a></h5>
+   	
+        <p>In conjunction with our sister organizations the LHC Physics Center at CERN, The Terascale Analysis Center at DESY, the ATLAS Analysis Center at Argonne, and CTEQ (The Coordinated Theoretical-Experimental Project on QCD) we conduct regular workshops that bring together experimentalists and theorists to discuss LHC and Tevatron data. In November 2010 more than 175 physicists came to the LPC for two days of lively presentations on benchmarks processes of the Standard Model.</p>
+
+
+        <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/workshop_2011_cte.shtml">Confronting Theory with Experiment: Puzzles, Challenges and Opportunities in the LHC Era<br />
+        <span class="no-bold">Nov 17-18, 2011</span></a></h5>
+
+	 <h5 style="margin: 0 0 1.4em 0;"><a href="http://indico.desy.de/conferenceDisplay.py?confId=3577">Standard Model Benchmarks at High-Energy Hadron Colliders <br />
+        <span class="no-bold">Jun 15-17, 2011</span></a></h5>
+
+        
+        <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/cteq.shtml">Standard Model Benchmarks at the Tevatron and LHC<br />
+        <span class="no-bold">Nov 19-20, 2010</span></a></h5>
+        
+        
+    </dd>
+</dl>
+
+
+
+<h3 class="block-header-darkblue">Schools</h3>
+
+<dl class="thumbs">
+    <dt class="image"><img src="/images/thumbs/cms-data-analysis-school.jpg" alt="thumb" style="border-width: 0;" /></dt>
+    <dd class="first  text">
+        
+        <p>International and US students from across the CMS collaboration participate in a highly successful hands-on data analysis school, where eighty per cent of school time is devoted to a series of hands-on exercises, first introducing participants to the tools of data analysis and then later devoted to performing detailed physics measurements with real CMS data in a 2.5 day intensive period by focused teams of about 6-8 students. </p>
+
+
+	<p><b><h5><span class="yellow">CMS Data Analysis School(s) 2013<br/></span></h5></p></b>
+	<a href="https://indico.cern.ch/conferenceDisplay.py?confId=211306">LPC, Fermilab - Jan 8-12, 2013 </a><br>
+        <a href="https://indico.cern.ch/conferenceDisplay.py?confId=210728">DESY, Hamburg - Jan 14-18, 2013 </a><br>
+	<p><a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#ShortExercises2013">Short Exercises</a> | <a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#LongExercises2013">Long Exercises</a>
+
+
+        <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2012<br/></span></h5></p></b>
+
+        <a href="https://indico.cern.ch/conferenceDisplay.py?confId=176245">NTU, Taipei - Sep 11-15, 2012 </a><br>
+        <a href="https://indico.cern.ch/conferenceDisplay.py?confId=153624">INFN, Pisa - Jan 23-27, 2012 </a><br>
+        <a href="https://indico.cern.ch/conferenceDisplay.py?confId=159632">LPC, Fermilab - Jan 10-14, 2012 </a>
+        <p>
+        <p><a href="/programs/schools-workshops/cms-das-2012.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/cms-das-2012.shtml#long">Long Exercises</a></p>
+ 
+        <h5><a href="/programs/schools-workshops/cms-data-analysis-school.shtml">CMS Data Analysis School 2011</a></h5>
+        <a href="">LPC, Fermilab - Jan 25-29, 2011</a>
+        <p> 
+	<p><a href="/programs/schools-workshops/cms-data-analysis-school.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/cms-data-analysis-school.shtml#long">Long Exercises</a></p>
+
+        
+        <h5><a href="/programs/schools-workshops/ejterm.shtml">EJTERM | Jan 5-9, 2010</a></h5>
+        <p><a href="/programs/schools-workshops/ejterm.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/ejterm.shtml#long">Long Exercises</a></p>
+        
+        
+    </dd>
+</dl>
+
+
+
+
+
+
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
+<!--#include virtual="/includes/templates/template-subpage-bottom.shtml"-->
