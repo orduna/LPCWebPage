@@ -1,0 +1,61 @@
+<!--#set var="TITLE" value="Visiting the LPC"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value="active"-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value=""-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+
+<h2>Visiting the LPC</h2>
+
+<h3>Information for physicists visiting the LPC:</h3>
+
+<ol class="double-space">
+
+<h4>
+<li><a href="http://www.uscms.org/uscms_at_work/physics/computing/getstarted/getaccount_fermilab.shtml">How to get a CMS Computing Account at Fermilab</a></li>
+
+<li><a href="http://wdrs.fnal.gov/users/fermi_badges.html">Getting/Renewing Fermilab ID Badges</a></li>
+
+<li><a href="https://fermi.service-now.com/kb_view.do?sysparm_article=KB0010214">Connecting to the Fermilab Network</a></li>
+
+<li>Restaurants near the LPC</li>
+	<ul>
+    	<li><a href="http://theory.fnal.gov/people/ellis/restaurants.html">http://theory.fnal.gov/people/ellis/restaurants.html</a></li>
+        <li><a href="http://www.fnal.gov/orgs/gsa/old_site/guide/v2000/AppendixE.html">FSPA - Restaurants around Fermilab</a></li>
+        </ul>
+
+
+<li><a href="http://fess.fnal.gov/accommodations/index.html">Accommodations at Fermilab</a></li>
+
+<li><a href="http://www.fnal.gov/pub/visiting/accomodations.html">Accomodation around Fermilab</li>
+
+<li><a href="http://wdrs.fnal.gov/users/local_resources.html">Local area resources</a></li>
+
+<li><a href="/social-club.shtml">The LPC Social Club</a></li>
+
+<li> To stay connected it is important to subscribe to the following mailing lists: </li>
+
+	<ul>
+	<li>lpc-all (<a href="http://listserv.fnal.gov/scripts/wa.exe?SUBED1=lpc-all&A=1">click here to self-subscribe</a>)</li>
+	<li>lpc-residents (<a href="http://listserv.fnal.gov/scripts/wa.exe?SUBED1=lpc-residents&A=1">click here to self-subscribe</a>)</li>
+        <li>lpc-howto (<a href="http://listserv.fnal.gov/scripts/wa.exe?SUBED1=lpc-howto&A=1">click here to self-subscribe</a>)</li>
+	<li>uscms-all (<a href="http://listserv.fnal.gov/scripts/wa.exe?SUBED1=uscms-all&A=1">click here to self-subscribe</a>) </li>
+	</ul>
+
+</ol>
+</h4>
+
+<h4>
+Click <a href="http://listserv.fnal.gov/users.asp">HERE</a> to know the instructions  on how to know the email lists that you are 
+subscribed to (on listserv.fnal.gov).
+</h4>
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
