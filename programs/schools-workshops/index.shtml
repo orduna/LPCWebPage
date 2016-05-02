@@ -7,22 +7,20 @@
 <!--#set var="NAV6_CSS" value=""-->
 <!--#set var="NAV7_CSS" value=""-->
 
-
 <!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
 <!--//========== DO NOT REMOVE CODE ABOVE =========//-->
-
 
 
 <h2>Tutorials, Workshops and Schools (CMSDAS)</h2>
 
 The LHC Physics Center (LPC) at Fermilab has started a new program starting summer 2013.  We plan to hold hands-on advanced tutorials and workshops at LPC in view of the CMS upgrade and physics beyond the 8 TeV.
 The <b>"Hands-on Advance Tutorials Session" called (HATS@LPC)</b> will bring together experts at LPC (and CMS) to give hands-on training on advance physics tools and topics, for example jet substructure.
-The emphasis here is "Hands-on", meaning that there will be exercises where the attendees can incorporate advanced analysis code into an analysis framework and learn how to understand 
+The emphasis here is "Hands-on", meaning that there will be exercises where the attendees can incorporate advanced analysis code into an analysis framework and learn how to understand
 and use the new techniques presented.
 <br>
 <br>
-The advance physics workshops will bring together experts and theorists beyond CMS to assess the state-of-the-art of current LHC 
-physics, future physics topics and help define the focus of  future course to take. 
+The advance physics workshops will bring together experts and theorists beyond CMS to assess the state-of-the-art of current LHC
+physics, future physics topics and help define the focus of  future course to take.
 <br>
 <br>
 The CMS Data Analysis Schools started 4 years ago at LPC would be continued to held annually.
@@ -34,62 +32,62 @@ The CMS Data Analysis Schools started 4 years ago at LPC would be continued to h
 <dl class="thumbs">
     <dt class="image"><img src="/images/thumbs/cms-data-analysis-school.jpg" alt="thumb" style="border-width: 0;" /></dt>
     <dd class="text">
- 
- <p> The following schedule of HATS@LPC has been created. Details on each workshop, including an Indico page and more details about
-  the technique, will be announced as the workshops get closer. All sessions will take place in WH11 Sunrise at the LPC.  There will,
-   of course, be limited video connections available for those who wish to connect from outside Fermilab. To take full advantage 
-   of these advance tutorials, we strongly encourage the participants to be present at the LPC.  Advanced (no cost) registration will
-    be requested for participation in these events.
-  </p>
-<!--
-        <h5 style="margin: 0 0 1.4em 0;">Electrons HATS@LPC (20 August 2014) - <a href="https://indico.cern.ch/event/315763/">agenda</a> </h5>
--->
-
-
- <h4><u><font color="FFBF00">2015 HATS</font></u></h4>
-
-	<h5 style="margin: 0 0 1.4em 0;">b-tagging HATS@LPC (13 July 2015) - <a href="https://indico.cern.ch/event/394944/">agenda</a> 
-</h5>
-	<h5 style="margin: 0 0 1.4em 0;">Tau Reconstruction HATS@LPC (6 July 2015) - <a href="https://indico.cern.ch/event/387402/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Framework 101 (1 July 2015) - <a href="https://indico.cern.ch/event/404877/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Jet Energy Corrections HATS@LPC (16 June 2015) -<a href="https://indico.cern.ch/event/387626/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Jet Algorithms HATS@LPC (15 June 2015) - <a href="https://indico.cern.ch/event/394942/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Photon Reconstruction HATS@LPC (11 June 2015) - <a href="https://indico.cern.ch/event/381120/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Electron Reconstruction HATS@LPC (9 June 2015) - <a href="https://indico.cern.ch/event/381119/">agenda</a> </h5>
+        
+        <p>The following schedule of HATS@LPC has been created. Details on each workshop, including an Indico page and more details about
+        the technique, will be announced as the workshops get closer. All sessions will take place in WH11 Sunrise at the LPC.  There will,
+        of course, be limited video connections available for those who wish to connect from outside Fermilab. To take full advantage
+        of these advance tutorials, we strongly encourage the participants to be present at the LPC.  Advanced (no cost) registration will
+        be requested for participation in these events.
+        </p>
+        <!--
+         <h5 style="margin: 0 0 1.4em 0;">Electrons HATS@LPC (20 August 2014) - <a href="https://indico.cern.ch/event/315763/">agenda</a> </h5>
+         -->
+        
+        
+        <h4><u><font color="FFBF00">2015 HATS</font></u></h4>
+        
+        <h5 style="margin: 0 0 1.4em 0;">b-tagging HATS@LPC (13 July 2015) - <a href="https://indico.cern.ch/event/394944/">agenda</a>
+        </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Tau Reconstruction HATS@LPC (6 July 2015) - <a href="https://indico.cern.ch/event/387402/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Framework 101 (1 July 2015) - <a href="https://indico.cern.ch/event/404877/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Jet Energy Corrections HATS@LPC (16 June 2015) -<a href="https://indico.cern.ch/event/387626/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Jet Algorithms HATS@LPC (15 June 2015) - <a href="https://indico.cern.ch/event/394942/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Photon Reconstruction HATS@LPC (11 June 2015) - <a href="https://indico.cern.ch/event/381120/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Electron Reconstruction HATS@LPC (9 June 2015) - <a href="https://indico.cern.ch/event/381119/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">MC4BSM HATS@LPC data challenge (21 May 2015) - <a href="https://indico.cern.ch/event/379384/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">LPC Computing 101 (12 March 2015) - <a href="https://indico.cern.ch/event/381446/">agenda</a> </h5>
-
-
- <h4><u><font color="FFBF00">2014 HATS</font></u></h4>
-
-	<h5 style="margin: 0 0 1.4em 0;">CRAB3 HATS@LPC (19 November 2014) - <a href="https://indico.cern.ch/event/344965/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">LPC Computing 101 (12 March 2015) - <a href="https://indico.cern.ch/event/381446/">agenda</a> </h5>
+        
+        
+        <h4><u><font color="FFBF00">2014 HATS</font></u></h4>
+        
+        <h5 style="margin: 0 0 1.4em 0;">CRAB3 HATS@LPC (19 November 2014) - <a href="https://indico.cern.ch/event/344965/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Electrons HATS@LPC (30-31 October 2014) - <a href="https://indico.cern.ch/event/344964/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Trigger HATS@LPC (13 August 2014) - <a href="https://indico.cern.ch/event/328483/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Roostats HATS@LPC (30 July 2014) -  <a href="https://indico.cern.ch/event/315001/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">LPC Turns Ten (17 July 2014) - <a href="https://indico.cern.ch/event/324816/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Tracker Upgrade + Hardware "experience" HATS@LPC (15-16 July 2014) - <a href="https://indico.cern.ch/event/315500/">agenda</a> </h5>
+        <h5 style="margin: 0 0 1.4em 0;">Tracker Upgrade + Hardware "experience" HATS@LPC (15-16 July 2014) - <a href="https://indico.cern.ch/event/315500/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Jet Substructure HATS@LPC (18-19 June 2014) -  <a href="https://indico.cern.ch/event/315003/">agenda</a> </h5>
-        <h5 style="margin: 0 0 1.4em 0;">Statistics HATS@LPC  (2-4 June 2014) -  <a href="https://indico.cern.ch/event/315002/">agenda</a> </h5> 
+        <h5 style="margin: 0 0 1.4em 0;">Statistics HATS@LPC  (2-4 June 2014) -  <a href="https://indico.cern.ch/event/315002/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Calo Upgrade Techologies/Simulation HATS@LPC (16 May 2014) -  <a href="https://indico.cern.ch/event/314999/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">b-tagging HATS@LPC (12 May 2014) -  <a href="https://indico.cern.ch/event/314998/">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">MissingET (MET) HATS@LPC (26 March 2014) -  <a href="https://indico.cern.ch/event/303854/">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">Delphes simulation HATS@LPC (19 February 2014) -  <a href="https://indico.cern.ch/event/300136/">agenda</a> </h5>
-
-
- <h4><u><font color="FFBF00">2013 HATS</font></u></h4>
-
+        <h5 style="margin: 0 0 1.4em 0;">Delphes simulation HATS@LPC (19 February 2014) -  <a href="https://indico.cern.ch/event/300136/">agenda</a> </h5>
+        
+        
+        <h4><u><font color="FFBF00">2013 HATS</font></u></h4>
+        
         <h5 style="margin: 0 0 1.4em 0;">Modern tools for interactive analysis HATS@LPC (20 November 2013) -  <a href="https://indico.cern.ch/conferenceDisplay.py?confId=277393">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">How to get an Industry Job (13 November 2013) -  <a href="https://indico.cern.ch/conferenceDisplay.py?confId=277726">agenda</a></h5>
         <h5 style="margin: 0 0 1.4em 0;">Photons HATS@LPC (10-11 October 2013) -  <a href="https://indico.cern.ch/conferenceDisplay.py?confId=272635">agenda</a> </h5>
-	<h5 style="margin: 0 0 1.4em 0;">GooFit HATS@LPC (16-18 September 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=268502">agenda </a>  </h5>
+        <h5 style="margin: 0 0 1.4em 0;">GooFit HATS@LPC (16-18 September 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=268502">agenda </a>  </h5>
         <h5 style="margin: 0 0 1.4em 0;">Pileup/Effects on Object ID/ Rho Corrections HATS@LPC (8 Aug, 2013 2010) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=264367">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">LPC Trigger Event (7 August 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=263808">agenda</a></h5>
         <h5 style="margin: 0 0 1.4em 0;">Global Event Description (23-24 July, 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=251030">agenda</a> </h5>
         <h5 style="margin: 0 0 1.4em 0;">Statistical Tools II HATS@LPC(26 June, 2013)  - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=253181">agenda</a></h5>
-        <h5 style="margin: 0 0 1.4em 0;">Statistical Tools I HATS@LPC(12 June, 2013)  - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=253180">agenda</a>  </h5> 
+        <h5 style="margin: 0 0 1.4em 0;">Statistical Tools I HATS@LPC(12 June, 2013)  - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=253180">agenda</a>  </h5>
         <h5 style="margin: 0 0 1.4em 0;">Jet-substructure HATS@LPC (29 May, 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=251174">agenda<br/></a> </h5>
-
-
+        
+        
     </dd>
 </dl>
 
@@ -102,77 +100,77 @@ The CMS Data Analysis Schools started 4 years ago at LPC would be continued to h
 <dl class="thumbs">
     <dt class="image"><img src="/images/thumbs/standard-model.jpg" alt="thumb" style="border-width: 0;" /></dt>
     <dd class="text">
-
- <h4><u><font color="FFBF00">2015 Workshops</font></u></h4>
-
+        
+        <h4><u><font color="FFBF00">2015 Workshops</font></u></h4>
+        
         <h5 style="margin: 0 0 1.4em 0;">MC4BSM Workshop @ LPC (18-20 May 2015) - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=9361">agenda<br/></a></h5>
-
- <h4><u><font color="FFBF00">2014 Workshops</font></u></h4>
-
-	<h5 style="margin: 0 0 1.4em 0;">CMS SUSY Event at the LPC (20-22 November 2014) - <a href="https://indico.cern.ch/event/339666/">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">BSM Higgs workshop @ LPC (3-5 November 2014) - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=8672">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">2nd CMS B2G Run2 Preparation Event at the LPC (22-23 October 2014) - <a href="https://indico.cern.ch/event/339387/">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">CMS Trigger and Tracker meeting (18-19 September 2014)  - <a href="https://indico.cern.ch/event/326723/">agenda<br/></a></h5>
+        
+        <h4><u><font color="FFBF00">2014 Workshops</font></u></h4>
+        
+        <h5 style="margin: 0 0 1.4em 0;">CMS SUSY Event at the LPC (20-22 November 2014) - <a href="https://indico.cern.ch/event/339666/">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">BSM Higgs workshop @ LPC (3-5 November 2014) - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=8672">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">2nd CMS B2G Run2 Preparation Event at the LPC (22-23 October 2014) - <a href="https://indico.cern.ch/event/339387/">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">CMS Trigger and Tracker meeting (18-19 September 2014)  - <a href="https://indico.cern.ch/event/326723/">agenda<br/></a></h5>
         <h5 style="margin: 0 0 1.4em 0;">CMS HCAL DPG Forum at LPC (11-13 September 2014)  - <a href="https://indico.cern.ch/event/333077/">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">Next steps in the Energy Frontier - Hadron Colliders (25-28 August, 2014)  - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=7864">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">CMS Upgrade TP Performance Studies Group - Workshop LPC@FNAL (8-9 May 2014) - <a href="https://indico.cern.ch/event/305314/">agenda<br/></a></h5>
-	<h5 style="margin: 0 0 1.4em 0;">JetMET Workshop (27-28 January 2014)   - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=277516">agenda<br/></a></h5>
-
- <h4><u><font color="FFBF00">2013 Workshops</font></u></h4>
-
-	<h5 style="margin: 0 0 1.4em 0;">CTEQ & LPC Workshop - QCD Tools for LHC Physics: From 8 to 14 TeV (14-15 November, 2013)  - <a href="http://tigger.uic.edu/~varelas/cteq_workshop_2013/">agenda<br/></a></h5>
-        <h5 style="margin: 0 0 1.4em 0;">SUSY at the Near Energy Frontier (11-13 November, 2013)  - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=7321">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">Next steps in the Energy Frontier - Hadron Colliders (25-28 August, 2014)  - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=7864">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">CMS Upgrade TP Performance Studies Group - Workshop LPC@FNAL (8-9 May 2014) - <a href="https://indico.cern.ch/event/305314/">agenda<br/></a></h5>
+        <h5 style="margin: 0 0 1.4em 0;">JetMET Workshop (27-28 January 2014)   - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=277516">agenda<br/></a></h5>
+        
+        <h4><u><font color="FFBF00">2013 Workshops</font></u></h4>
+        
+        <h5 style="margin: 0 0 1.4em 0;">CTEQ & LPC Workshop - QCD Tools for LHC Physics: From 8 to 14 TeV (14-15 November, 2013)  - <a href="http://tigger.uic.edu/~varelas/cteq_workshop_2013/">agenda<br/></a></h5>
+            <h5 style="margin: 0 0 1.4em 0;">SUSY at the Near Energy Frontier (11-13 November, 2013)  - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=7321">agenda<br/></a></h5>
         <h5 style="margin: 0 0 1.4em 0;">LPC Workshop on Exotica Top Partners (26-27 September, 2013) - <a href="https://indico.cern.ch/conferenceOtherViews.py?confId=266244&view=standard">agenda<br/></a></h5>
         <h5 style="margin: 0 0 1.4em 0;">LPC Workshop on Gauge Boson Couplings (19-20 August, 2013) - <a href="https://indico.cern.ch/conferenceDisplay.py?confId=252071">agenda<br/></a></h5>
         <h5 style="margin: 0 0 1.4em 0;">5th TLEP Workshop (TLEP13) (25-26 July, 2013) - <a href="https://indico.fnal.gov/conferenceDisplay.py?confId=6983">agenda<br/></a></h5>
- 
- <br>
- <br>
- 
-
- <script type="text/javascript" language="JavaScript"><!--
-function HideContent(d) {
-document.getElementById(d).style.display = "none";
-}
-function ShowContent(d) {
-document.getElementById(d).style.display = "block";
-}
-function ReverseDisplay(d) {
-if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
-else { document.getElementById(d).style.display = "none"; }
-}
-//--></script>
-<div id="pastworkshops" style="display:none;">
-<p>
-
- <h4>Past Workshops</h4>
- 
-	<h5 style="margin: 0 0 1.4em 0;"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=199210">GED (Global Event Description)  workshop (CMS) at FNAL<br/>
-        <span class="no-bold">Aug 20-22, 2012</span></a></h5>
-   	
-        <p>In conjunction with our sister organizations the LHC Physics Center at CERN, The Terascale Analysis Center at DESY, the ATLAS Analysis Center at Argonne, and CTEQ (The Coordinated Theoretical-Experimental Project on QCD) we conduct regular workshops that bring together experimentalists and theorists to discuss LHC and Tevatron data. In November 2010 more than 175 physicists came to the LPC for two days of lively presentations on benchmarks processes of the Standard Model.</p>
-
-
-        <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/workshop_2011_cte.shtml">Confronting Theory with Experiment: Puzzles, Challenges and Opportunities in the LHC Era<br />
-        <span class="no-bold">Nov 17-18, 2011</span></a></h5>
-
-	 <h5 style="margin: 0 0 1.4em 0;"><a href="http://indico.desy.de/conferenceDisplay.py?confId=3577">Standard Model Benchmarks at High-Energy Hadron Colliders <br />
-        <span class="no-bold">Jun 15-17, 2011</span></a></h5>
-
         
-        <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/cteq.shtml">Standard Model Benchmarks at the Tevatron and LHC<br />
-        <span class="no-bold">Nov 19-20, 2010</span></a></h5>
-
-</p>
-</div>
-<a href="javascript:ShowContent('pastworkshops')">
-Show past workshops.....
-</a>
-<a href="javascript:HideContent('pastworkshops')">
-Hide past workshops
-</a>
- 
-       
+        <br>
+        <br>
+        
+        
+        <script type="text/javascript" language="JavaScript"><!--
+            function HideContent(d) {
+                document.getElementById(d).style.display = "none";
+            }
+        function ShowContent(d) {
+            document.getElementById(d).style.display = "block";
+        }
+        function ReverseDisplay(d) {
+            if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+            else { document.getElementById(d).style.display = "none"; }
+        }
+        //--></script>
+        <div id="pastworkshops" style="display:none;">
+            <p>
+            
+            <h4>Past Workshops</h4>
+            
+            <h5 style="margin: 0 0 1.4em 0;"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=199210">GED (Global Event Description)  workshop (CMS) at FNAL<br/>
+                <span class="no-bold">Aug 20-22, 2012</span></a></h5>
+            
+            <p>In conjunction with our sister organizations the LHC Physics Center at CERN, The Terascale Analysis Center at DESY, the ATLAS Analysis Center at Argonne, and CTEQ (The Coordinated Theoretical-Experimental Project on QCD) we conduct regular workshops that bring together experimentalists and theorists to discuss LHC and Tevatron data. In November 2010 more than 175 physicists came to the LPC for two days of lively presentations on benchmarks processes of the Standard Model.</p>
+            
+            
+            <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/workshop_2011_cte.shtml">Confronting Theory with Experiment: Puzzles, Challenges and Opportunities in the LHC Era<br />
+                <span class="no-bold">Nov 17-18, 2011</span></a></h5>
+            
+            <h5 style="margin: 0 0 1.4em 0;"><a href="http://indico.desy.de/conferenceDisplay.py?confId=3577">Standard Model Benchmarks at High-Energy Hadron Colliders <br />
+                <span class="no-bold">Jun 15-17, 2011</span></a></h5>
+            
+            
+            <h5 style="margin: 0 0 1.4em 0;"><a href="/programs/schools-workshops/cteq.shtml">Standard Model Benchmarks at the Tevatron and LHC<br />
+                <span class="no-bold">Nov 19-20, 2010</span></a></h5>
+            
+            </p>
+        </div>
+        <a href="javascript:ShowContent('pastworkshops')">
+            Show past workshops.....
+        </a>
+        <a href="javascript:HideContent('pastworkshops')">
+            Hide past workshops
+        </a>
+        
+        
         
     </dd>
 </dl>
@@ -180,50 +178,50 @@ Hide past workshops
 
 
 <a name="CMSDAS">
-<h3 class="block-header-darkblue">CMS Data Analysis School</h3></a>
+    <h3 class="block-header-darkblue">CMS Data Analysis School</h3></a>
 <dl class="thumbs">
     <dt class="image"><img src="/images/thumbs/cms-data-analysis-school.jpg" alt="thumb" style="border-width: 0;" /></dt>
     <dd class="first  text">
         
         <p>International and US students from across the CMS collaboration participate in a highly successful hands-on data analysis school, where eighty per cent of school time is devoted to a series of hands-on exercises, first introducing participants to the tools of data analysis and then later devoted to performing detailed physics measurements with real CMS data in a 2.5 day intensive period by focused teams of about 6-8 students. </p>
-
-	<p><b><h5><span class="yellow">CMS Data Analysis School(s) 2016<br/></span></h5></p></b>
+        
+        <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2016<br/></span></h5></p></b>
         <a href="https://indico.cern.ch/">DESY, Hamburg - Sep 19-23, 2016 </a><br>
         <a href="https://indico.cern.ch/">National Taiwan University, Taiwan - Feb 15-19, 2016 </a><br>
         <a href=" https://indico.cern.ch/event/448433/">LPC, Fermilab - Jan 11-15, 2016 </a><br>
-
-
+        
+        
         <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2015<br/></span></h5></p></b>
         <a href="https://indico.cern.ch/event/386181/">Kyungpook National University, Daegu, Korea - Aug 25-29, 2015 </a><br>
         <a href="https://indico.cern.ch/event/346968/">LPC, Fermilab - Jan 12-16, 2015 </a><br>
         <a href="https://indico.cern.ch/event/348410/">INFN, Bari, Italy - Jan 19-23, 2015 </a><br>
-
-
+        
+        
         <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2014<br/></span></h5></p></b>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=265403">LPC, Fermilab - Jan 7-11, 2014 </a><br>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=265404">CERN, Geneva, Switzerland - Jan 13-17, 2014 </a><br>
-
-
-	<p><b><h5><span class="yellow">CMS Data Analysis School(s) 2013<br/></span></h5></p></b>
-	<a href="https://indico.cern.ch/conferenceDisplay.py?confId=211306">LPC, Fermilab - Jan 8-12, 2013 </a><br>
+        
+        
+        <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2013<br/></span></h5></p></b>
+        <a href="https://indico.cern.ch/conferenceDisplay.py?confId=211306">LPC, Fermilab - Jan 8-12, 2013 </a><br>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=210728">DESY, Hamburg - Jan 14-18, 2013 </a><br>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=265391">SINP, Kolkata, India - Nov 7-11, 2013 </a><br>
-	<p><a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#ShortExercises2013">Short Exercises</a> | <a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#LongExercises2013">Long Exercises</a>
-
-
+        <p><a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#ShortExercises2013">Short Exercises</a> | <a href="https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#LongExercises2013">Long Exercises</a>
+        
+        
         <p><b><h5><span class="yellow">CMS Data Analysis School(s) 2012<br/></span></h5></p></b>
-
+        
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=176245">NTU, Taipei - Sep 11-15, 2012 </a><br>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=153624">INFN, Pisa - Jan 23-27, 2012 </a><br>
         <a href="https://indico.cern.ch/conferenceDisplay.py?confId=159632">LPC, Fermilab - Jan 10-14, 2012 </a>
         <p>
         <p><a href="/programs/schools-workshops/cms-das-2012.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/cms-das-2012.shtml#long">Long Exercises</a></p>
- 
+        
         <h5><a href="/programs/schools-workshops/cms-data-analysis-school.shtml">CMS Data Analysis School 2011</a></h5>
         <a href="">LPC, Fermilab - Jan 25-29, 2011</a>
-        <p> 
-	<p><a href="/programs/schools-workshops/cms-data-analysis-school.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/cms-data-analysis-school.shtml#long">Long Exercises</a></p>
-
+        <p>
+        <p><a href="/programs/schools-workshops/cms-data-analysis-school.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/cms-data-analysis-school.shtml#long">Long Exercises</a></p>
+        
         
         <h5><a href="/programs/schools-workshops/ejterm.shtml">EJTERM | Jan 5-9, 2010</a></h5>
         <p><a href="/programs/schools-workshops/ejterm.shtml#short">Short Exercises</a> | <a href="/programs/schools-workshops/ejterm.shtml#long">Long Exercises</a></p>
@@ -233,40 +231,45 @@ Hide past workshops
 </dl>
 
 
+<h3>The above events are organized by the LPC Events committee that currently consists of:</h3>
 
-<h3>The above events are organised by the LPC Events committee that currently consists of:</h3>
+<ul>
+    <li>Gabriele Benelli (Brown, <font color="ecb000">Chair</font>)</li>
+    <li>Jim Dolen (SUNY Buffalo)</li>
+    <li>Chris Hill (Ohio State)</li>
+    <li>Luca Malgeri (CERN)</li>
+    <li>Justin Pilot (UC Davis)</li>
+    <li>Nadja Strobbe (Fermilab, <font color="ecb000">Chair</font>)</li>
+    <li>Matt Walker (Rutgers)</li>
+    <li>Hannsjorg Weber (Fermilab)</li>
+</ul>
+<ul>
+    <li>Ex-Officio Meenakshi Narain - (LPC Coordinator)</li>
+    <li>Ex-Officio Boaz Klima - (LPC Coordinator)</li>
+</ul>
 
+<h3>Past Members</h3>
 
-<li>Robin Erbacher (UC Davis)</li>
-<li>Cecilia Gerber (UIC)</li>
-<li>Sudhir Malik  (UPRM, <font color=ecb000 >Chair</font>)</li>
-<li>Yurii Maravin (KSU)</li>
-<li>Jane Nachtman (Iowa)</li>
-<li>Sanjay Padhi (UCSD)</li>
-<li>Andrew Whitbeck  (FNAL, <font color=ecb000 >Chair</font>)</li>
+<ul>
+    <li>Jake Anderson (Fermilab)</li>
+    <li>Robin Erbacher (UC Davis)</li>
+    <li>Cecilia Gerber (UIC)</li>
+    <li>Frank Golf (UCSB)</li>
+    <li>Andrei Gritsan (JHU) </li>
+    <li>Ulrich Heintz (Brown)</li>
+    <li>Mike Hildreth(Notre Dame)</li>
+    <li>Sudhir Malik  (UPRM)</li>
+    <li>Yurii Maravin (KSU)</li>
+    <li>Jane Nachtman (Iowa)</li>
+    <li>Sanjay Padhi (UCSD)</li>
+    <li>Seema Sharma (Fermilab)</li>
+    <li>Eric Vaandering (Fermilab)</li>
+    <li>Andrew Whitbeck  (Fermilab)</li>
+</ul>
 
-Ex-Officio (LPC Coordinator) - Meenakshi Narain</br>
-Ex-Officio (LPC Coordinator) - Boaz Klima</br>
-<p>
-<P>
-<li>Past Members:</li>
+<p>Questions, suggestions can be emailed to: <a href="mailto:lpc-e@fnal.gov">LPC Events Committtee</a></p>
 
-Jake Anderson (FNAL)</br>
-Frank Golf (UCSB)</br>
-Andrei Gritsan (JHU) </br>
-Ulrich Heintz (Brown)</br>
-Mike Hildreth(Notre Dame)</br>
-Seema Sharma (FNAL)</br>
-Eric Vaandering (FNAL)</br>
-
-
-<br>
-<br>
-<h3> Questions, suggestions  can be emailed to:<a href="mailto:lpc-e@fnal.gov">LPC Events Committtee</a> </h3>
-
-<br>
-<br>
-<p>Webpage maintained by <a href="mailto:malik@fnal.gov"> Sudhir Malik</a>.</p>
+<p>Webpage maintained by <a href="mailto:jjesus@fnal.gov">Jesus Orduna</a>.</p>
 
 
 
