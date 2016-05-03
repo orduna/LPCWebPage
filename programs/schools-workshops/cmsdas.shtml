@@ -1,0 +1,88 @@
+<!--#set var="TITLE" value="CMSDAS"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+<h3>CMS Data Analysis School - CMSDAS</h3>
+
+<p>International and US students from across the CMS collaboration participate in a highly successful hands-on data analysis school, where eighty per cent of school time is devoted to a series of hands-on exercises, first introducing participants to the tools of data analysis and then later devoted to performing detailed physics measurements with real CMS data in a 2.5 day intensive period by focused teams of about 6-8 students with a close to one-to-one ratio between students and experts, also known as facilitators.</p>
+
+<h4>
+    <font color="FFBF00">2016 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>DESY, Hamburg (September 19-23, 2016)</li>
+    <li>National Taiwan University, Taiwan (February 15-19, 2016)</li>
+    <li>LPC, Fermilab (January 11-15, 2016) - <a target="_blank" href=" https://indico.cern.ch/event/448433/">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2015 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>Kyungpook National University, Daegu, Korea (Aug 24-29, 2015) - <a target="_blank" href="https://indico.cern.ch/event/386181/">Indico Agenda</a></li>
+    <li>INFN, Bari, Italy (January 19-23, 2015) - <a target="_blank" href="https://indico.cern.ch/event/348410/">Indico Agenda</a></li>
+    <li>LPC, Fermilab (January 12-16, 2015) - <a target="_blank" href="https://indico.cern.ch/event/346968/">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2014 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>CERN, Geneva, Switzerland (January 13-18, 2014) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=265404">Indico Agenda</a></li>
+    <li>LPC, Fermilab (January 8-11, 2014) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=265403">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2013 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>SINP, Kolkata, India (November 6-11, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=265391">Indico Agenda</a></li>
+    <li>DESY, Hamburg (January 14-18, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=210728">Indico Agenda</a></li>
+    <li>LPC, Fermilab (January 8-12, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=211306">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2012 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>NTU, Taipei (September 10-15, 2012) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=176245">Indico Agenda</a></li>
+    <li>INFN, Pisa (January 23-27, 2012) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=153624">Indico Agenda</a></li>
+    <li>LPC, Fermilab (January 10-14, 2012) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=159632">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2011 CMSDAS</font>
+</h4>
+
+<ul>
+    <li>LPC, Fermilab (January 25-29, 2011) - <a target="_blank" href="/programs/schools-workshops/cms-data-analysis-school.shtml#short">Short Exercises</a> | <a target="_blank" href="/programs/schools-workshops/cms-data-analysis-school.shtml#long">Long Exercises</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2010 Previous Schools</font>
+</h4>
+
+<ul>
+    <li>EJTERM (January 5-9, 2010) - <a target="_blank" href="/programs/schools-workshops/ejterm.shtml">Main page</a> | <a target="_blank" href="/programs/schools-workshops/ejterm.shtml#short">Short Exercises</a> | <a target="_blank" href="/programs/schools-workshops/ejterm.shtml#long">Long Exercises</a></li>
+</ul>
+
+<br><br><br>
+
+<p>Questions, suggestions can be emailed to <a href="mailto:lpc-e@fnal.gov">LPC Events Committtee</a></p>
+
+<p>Webpage maintained by <a href="mailto:jjesus@fnal.gov">Jesus Orduna</a>.</p>
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
