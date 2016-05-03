@@ -1,0 +1,94 @@
+<!--#set var="TITLE" value="Advanced Physics Workshops"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+<h3>Advanced Physics Workshops</h3>
+
+<p>The LPC conducts regular workshops that bring together experimentalists and theorists to discuss various topics of interest for the scientific community.</p>
+
+<h4>
+    <font color="FFBF00">2015 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>MC4BSM Workshop @ LPC (May 18-20, 2015) - <a target="_blank" href="https://indico.fnal.gov/conferenceDisplay.py?confId=9361">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2014 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>CMS SUSY Event at the LPC (November 20-22, 2014) - <a target="_blank" href="https://indico.cern.ch/event/339666/">Indico Agenda</a></li>
+    <li>BSM Higgs workshop @ LPC (November 3-5, 2014) - <a target="_blank" href="https://indico.fnal.gov/conferenceDisplay.py?confId=8672">Indico Agenda</a></li>
+    <li>2<sup>nd</sup> CMS B2G Run2 Preparation Event at the LPC (October 22-23, 2014) - <a target="_blank" href="https://indico.cern.ch/event/339387/">Indico Agenda</a></li>
+    <li>CMS First joint Tracker and Trigger Forum for HL-LHC (September 18-19, 2014) - <a target="_blank" href="https://indico.cern.ch/event/326723/">Indico Agenda</a></li>
+    <li>CMS HCAL DPG Forum at LPC (September 11-13, 2014) - <a target="_blank" href="https://indico.cern.ch/event/333077/">Indico Agenda</a></li>
+    <li>Next steps in the Energy Frontier - Hadron Colliders, Workshop at LPC (August 25-28, 2014) - <a target="_blank" href="https://indico.fnal.gov/conferenceDisplay.py?confId=7864">Indico Agenda</a></li>
+    <li>Upgrade TP Performance Studies Group Workshop LPC (May 8-9, 2014) - <a target="_blank" href="https://indico.cern.ch/event/305314/">Indico Agenda</a></li>
+    <li>LPC Workshop: JetMET at High Pile-up, Preparation for LHC Run II (January 27-28, 2014) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=277516">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2013 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>QCD Tools for LHC Physics: From 8 to 14 TeV. What is needed and why? (November 14-15, 2013) - <a target="_blank" href="http://tigger.uic.edu/~varelas/cteq_workshop_2013/">Main page</a>, <a target="_blank" href="https://indico.cern.ch/event/262192/other-view?view=standard">Indico Agenda</a></li>
+    <li>SUSY at the Near Energy Frontier (November 11-13, 2013) - <a target="_blank" href="https://indico.fnal.gov/conferenceDisplay.py?confId=7321">Indico Agenda</a></li>
+    <li>LPC Workshop on Exotic Top Partners (September 26-27, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceOtherViews.py?confId=266244&view=standard">Indico Agenda</a></li>
+    <li>LPC Workshop on Gauge Boson Couplings (August 19-20, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=252071">Indico Agenda</a></li>
+    <li>5<sup>th</sup> TLEP Workshop (TLEP13) (July 25-26, 2013) - <a target="_blank" href="https://indico.fnal.gov/conferenceDisplay.py?confId=6983">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2012 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>GED (Global Event Description) workshop @FNAL (August 20-22, 2012) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=199210">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2011 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>Confronting Theory with Experiment: Puzzles, Challenges and Opportunities in the LHC Era (November 17-18, 2011) - <a target="_blank" href="/programs/schools-workshops/workshop_2011_cte.shtml">Main page</a>, <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=159191">Indico Agenda</a></li>
+    <li>Standard Model Benchmarks at High-Energy Hadron Colliders (June 15-17, 2011) - <a target="_blank" href="http://indico.desy.de/conferenceDisplay.py?confId=3577">Indico Agenda (DESY)</a></li>
+</ul>
+
+<h4>
+    <font color="FFBF00">2010 Advanced Physics Workshops</font>
+</h4>
+
+<ul>
+    <li>Standard Model Benchmarks at the Tevatron and LHC (November 19-20, 2010) - <a target="_blank" href="/programs/schools-workshops/cteq.shtml">Main page</a>, <a target="_blank" href="http://indico.cern.ch/conferenceDisplay.py?confId=101297">Indico Agenda</a></li>
+</ul>
+
+<p>Some of these events have been organized in conjunction with some of our sister organizations:
+
+<ul>
+    <li>The LHC Physics Center at CERN</li>
+    <li>The Terascale Analysis Center at DESY</li>
+    <li>The ATLAS Analysis Center at Argonne</li>
+    <li>The Coordinated Theoretical-Experimental Project on QCD, CTEQ</li>
+</ul>
+</p>
+
+<br><br><br>
+
+<p>Questions, suggestions can be emailed to the <a href="mailto:lpc-e@fnal.gov">LPC Events Committtee</a></p>
+
+<p>Webpage maintained by <a href="mailto:jjesus@fnal.gov">Jesus Orduna</a>.</p>
+
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
