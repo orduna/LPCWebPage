@@ -1,0 +1,100 @@
+<!--#set var="TITLE" value="HATS@LPC"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+<h3>Hands-on Advanced Tutorial Sessions at the LPC - HATS@LPC</h3>
+
+<p>The following schedule of HATS@LPC has been created. Details on each workshop, including an Indico page and more details about
+the technique, will be announced as the workshops get closer. All sessions will take place in WH11 Sunrise at the LPC. There will,
+of course, be limited video connections available for those who wish to connect from outside Fermilab. To take full advantage
+of these advance tutorials, we strongly encourage the participants to be present at the LPC. Advanced (no cost) registration will
+be requested for participation in these events.
+</p>
+
+
+<h4>
+    <u>
+        <font color="FFBF00">2016 HATS@LPC</font>
+    </u>
+</h4>
+
+<ul>
+    <li>Git/GitHub HATS@LPC (June 6, 2016) - <a target="_blank" href="https://indico.cern.ch/event/525029/">Indico Agenda</a></li>
+</ul>
+
+<h4>
+    <u>
+        <font color="FFBF00">2015 HATS@LPC</font>
+    </u>
+</h4>
+
+<ul>
+    <li>b-tagging HATS@LPC (July 13, 2015) - <a target="_blank" href="https://indico.cern.ch/event/394944/">Indico Agenda</a></li>
+    <li>Tau Reconstruction HATS@LPC (July 6, 2015) - <a target="_blank" href="https://indico.cern.ch/event/387402/">Indico Agenda</a> </li>
+    <li>Framework 101 (July 1, 2015) - <a target="_blank" href="https://indico.cern.ch/event/404877/">Indico Agenda</a> </li>
+    <li>Jet Energy Corrections HATS@LPC (June 16, 2015) -<a target="_blank" href="https://indico.cern.ch/event/387626/">Indico Agenda</a> </li>
+    <li>Jet Algorithms HATS@LPC (June 15, 2015) - <a target="_blank" href="https://indico.cern.ch/event/394942/">Indico Agenda</a> </li>
+    <li>Photons HATS@LPC (June 11, 2015) - <a target="_blank" href="https://indico.cern.ch/event/381120/">Indico Agenda</a> </li>
+    <li>Electrons HATS@LPC (June 9, 2015) - <a target="_blank" href="https://indico.cern.ch/event/381119/">Indico Agenda</a> </li>
+    <li>Joint MC4BSM and LPC "data challenge" (post MC4BSM workshop) HATS@LPC (May 21, 2015) - <a target="_blank" href="https://indico.cern.ch/event/379384/">Indico Agenda</a> </li>
+    <li>LPC Computing 101 (March 12, 2015) - <a target="_blank" href="https://indico.cern.ch/event/381446/">Indico Agenda</a> </li>
+</ul>
+
+<h4>
+    <u>
+        <font color="FFBF00">2014 HATS@LPC</font>
+    </u>
+</h4>
+
+<ul>
+    <li>HATS@LPC on CRAB3 (November 19, 2014) - <a target="_blank" href="https://indico.cern.ch/event/344965/">Indico Agenda</a> </li>
+    <li>HATS@LPC on Electrons (October 30-31, 2014) - <a target="_blank" href="https://indico.cern.ch/event/344964/">Indico Agenda</a> </li>
+    <li>HATS@LPC on Trigger (August 13, 2014) - <a target="_blank" href="https://indico.cern.ch/event/328483/">Indico Agenda</a> </li>
+    <li>Roostats HATS@LPC (July 30, 2014) - <a target="_blank" href="https://indico.cern.ch/event/315001/">Indico Agenda</a> </li>
+    <li>LPC Turns Ten (July 17, 2014) - <a target="_blank" href="https://indico.cern.ch/event/324816/">Indico Agenda</a> </li>
+    <li>Tracker Upgrade + Hardware "experience" HATS@LPC (July 15-16, 2014) - <a target="_blank" href="https://indico.cern.ch/event/315500/">Indico Agenda</a> </li>
+    <li>Jet Substructure HATS@LPC (June 18-19, 2014) - <a target="_blank" href="https://indico.cern.ch/event/315003/">Indico Agenda</a> </li>
+    <li>Statistics HATS@LPC (June 2-4, 2014) - <a target="_blank" href="https://indico.cern.ch/event/315002/">Indico Agenda</a> </li>
+    <li>Calo Upgrade Techologies/Simulation HATS@LPC (May 16, 2014) - <a target="_blank" href="https://indico.cern.ch/event/314999/">Indico Agenda</a> </li>
+    <li>b-tagging HATS@LPC (May 12, 2014) - <a target="_blank" href="https://indico.cern.ch/event/314998/">Indico Agenda</a> </li>
+    <li>LPC HATS on MET (March 26, 2014) - <a target="_blank" href="https://indico.cern.ch/event/303854/">Indico Agenda</a> </li>
+    <li>LPC HATS on Delphes simulation (February 19, 2014) - <a target="_blank" href="https://indico.cern.ch/event/300136/">Indico Agenda</a> </li>
+</ul>
+
+<h4>
+    <u>
+        <font color="FFBF00">2013 HATS@LPC</font>
+    </u>
+</h4>
+
+<ul>
+    <li>Modern tools for interactive analysis HATS@LPC (November 20, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=277393">Indico Agenda</a> </li>
+    <li>How to get an Industry Job (November 13, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=277726">Indico Agenda</a></li>
+    <li>Photons- Hands-on Tutorial Session (HATS) at LPC (HATS@LPC) (October 10-11, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=272635">Indico Agenda</a> </li>
+    <li>GooFit HATS@LPC (September 16-18, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=268502">Indico Agenda </a> </li>
+    <li>Pile-up - Hands-on Tutorial Session (HATS) at LPC (Aug 8, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=264367">Indico Agenda</a> </li>
+    <li>LPC Trigger Event (August 7, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=263808">Indico Agenda</a></li>
+    <li>PPD/GED Event (July 23-24, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=251030">Indico Agenda</a> </li>
+    <li>Stat II - Hands-on Tutorial Session (HATS) at LPC (June 26, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=253181">Indico Agenda</a></li>
+    <li>Stat I - Hands-on Tutorial Session (HATS) at LPC (June 12, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=253180">Indico Agenda</a> </li>
+    <li>Jet-Substructure Hands-on Tutorial Session(HATS) at LPC (May 29, 2013) - <a target="_blank" href="https://indico.cern.ch/conferenceDisplay.py?confId=251174">Indico Agenda<br/></a> </li>
+</ul>
+
+<p>Questions, suggestions can be emailed to <a href="mailto:lpc-e@fnal.gov">LPC Events Committtee</a></p>
+
+<p>Webpage maintained by <a href="mailto:jjesus@fnal.gov">Jesus Orduna</a>.</p>
+
+
+
+
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
