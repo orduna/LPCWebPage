@@ -11,19 +11,93 @@
 <!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
 <!--//========== DO NOT REMOVE CODE ABOVE =========//-->
 
-<h2>LPC Physics Forum Schedule</h2>
-<h3>
-<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274128">LPC Physics Forum (October 31, 2013)</li>
-<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274261">LPC Physics Forum (October 10, 2013)</li>
-<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274600">LPC Physics Forum (September 26, 2013)</li>
-<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=263843">LPC Physics Forum (July 18, 2013)</li>
-<li><a href=""></li>
-<li><a href=""></li>
-<li><a href=""></li>
-<li><a href=""></li>
 
-</h3>
-<br>
-<br>
 
+<a name="schedule"></a>
+<table width="150%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+
+
+<h2>LPC Physics Forum</h2>
+
+
+<tr>
+		<th width="15%"><font size=4>Date</font></th> 
+		<th width="35%"><font size=4>Topic(s)</font></th>
+		<th width="40%"><font size=4>Speaker(s)</font></th>
+		<th width="5%"><font size=4>Agenda (indico)</font></th>
+                <th width="5%"><font size=4>Attendance</font></th>
+
+</tr>
+
+
+	  <tr>
+    	  <td>  January 23, 2014</td>
+          <td> Two Higgs Doublet Model studies at the LHC and beyond</td> <td> John Stupak (Purdue University Calumet)</td> 
+	  <td ><a href="https://indico.cern.ch/conferenceDisplay.py?confId=294997">Agenda</a> </td>
+	  <td > 26 total (15 CMS, 2 Vidyo)</a> </td>
+	  </tr>
+
+	  <tr>
+    	  <td rowspan="2">  November 21, 2013</td>
+          <td> Closing the wedge in MA-tanBeta Plane</td> <td> Ian Lewis (Brookhaven)</td> 
+	  <td rowspan="2"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=278912">Agenda</a> </td>
+	  <td rowspan="2"> 25</a> </td>
+	  </tr>
+
+          <tr>
+	  <td> Z(ll) + MET Search in CMS </td> <td> Darien Wood (Northeastern) </td>
+	  </tr>
+
+	  <tr>
+    	  <td rowspan="2">  October 31, 2013</td>
+          <td> Simplified Dark Matter Models: 2 leptons + MET final state</td> <td> Yang Bai (Fermilab)</td> 
+	  <td rowspan="2"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=274128">Agenda</a> </td>
+	  <td rowspan="2"> </a> </td>
+	  </tr>
+
+          <tr>
+	  <td> Stop searches in single lepton+MET final state </td> <td> Verena Ingrid Martinez Outschoorn (Fermi National Accelerator Lab. </td>
+	  </tr>
+	 
+	  <tr>
+    	  <td rowspan="2">  October 4, 2013</td>
+          <td> Least Supersymmetric Standard Model</td> <td> Antonio Delgado Peris (Centro de Investigaciones Energ. Medioambientales y Tecn.</td> 
+	  <td rowspan="2"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=274261">Agenda</a> </td>
+	  <td rowspan="2"> </a> </td>
+	  </tr>
+
+          <tr>
+	  <td> Searches for Natural SUSY at CMS </td> <td>  Rick Cavanaugh (University of Illinois at Chicago </td>
+	  </tr>
+
+	  <tr>
+    	  <td rowspan="2">  September 26, 2013</td>
+          <td> Top/Higgs Tagging at LHC</td> <td> Dinko Ferencek (Rutgers, State Univ. of New Jersey </td> 
+	  <td rowspan="2"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=274600">Agenda</a> </td>
+	  <td rowspan="2"> </a> </td>
+	  </tr>
+
+          <tr>
+	  <td> Phenomenology of VLQs </td> <td>  Adam Martin (Fermilab)</td>
+	  </tr>
+
+
+	  <tr>
+    	  <td rowspan="2">  July 18, 2013</td>
+          <td> Recent work on light stop searches</td> <td>Chiu-Tien Yu (UW-Madison)</td> 
+	  <td rowspan="2"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=263843">Agenda</a> </td>
+	  <td rowspan="2"> </a> </td>
+	  </tr>
+
+          <tr>
+	  <td> Track Triggers at Level 1 </td> <td>Dr. Ronald Lipton (Fermi National Accelerator Lab. </td>
+	  </tr>
+	 
+
+
+
+
+</tbody>
+</table>
 <!--//========== DO NOT REMOVE CODE BELOW =========//-->
