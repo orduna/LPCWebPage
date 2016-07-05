@@ -1,0 +1,29 @@
+<!--#set var="TITLE" value="Calendar | Weekly"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value=""-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value="active"-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+<h2>LPC Physics Forum Schedule</h2>
+<h3>
+<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274128">LPC Physics Forum (October 31, 2013)</li>
+<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274261">LPC Physics Forum (October 10, 2013)</li>
+<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=274600">LPC Physics Forum (September 26, 2013)</li>
+<li><a href="http://indico.cern.ch/conferenceDisplay.py?confId=263843">LPC Physics Forum (July 18, 2013)</li>
+<li><a href=""></li>
+<li><a href=""></li>
+<li><a href=""></li>
+<li><a href=""></li>
+
+</h3>
+<br>
+<br>
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
