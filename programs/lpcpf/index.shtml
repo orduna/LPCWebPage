@@ -20,7 +20,7 @@
 
 <h2>LPC Physics Forum</h2>
 
-
+ 
 <tr>
 		<th width="15%"><font size=4>Date</font></th> 
 		<th width="35%"><font size=4 align="center">Topic(s)</font></th>
@@ -28,7 +28,329 @@
 		<th width="10%"><font size=4>Agenda (CMS internal)</font></th>
 
 </tr>
+<tr>
+          <td rowspan="2">  May 6, 2016</td>
+          <td> Jet Substructure  </td> <td>  Jesse Thaler (MIT) </td>
+          <td><a href="https://indico.cern.ch/event/516834/">Agenda</a> </td>
+<tr>
+<tr>
+          <td rowspan="2">  April 21, 2016</td>
+          <td rowspan="2"> 3rd Generation SUSY  </td> <td>  Miaoyuan Liu (Duke)  </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/516833/">Agenda</a> </td>
+	  <tr>
+	  <td> Peisi Huang (Wisconsin)</td>
+          </tr>
 
+<tr>
+<tr>
+          <td rowspan="2">  April 7, 2016</td>
+          <td> Common theory issues in B2G analyses </td> <td>  Bogdan Dobrescu (Fermilab), Fabrizio Margaroli (INFN) </td>
+          <td><a href="https://indico.cern.ch/event/516831/">Agenda</a> </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  March 17, 2016</td>
+          <td> X --> Z(jj) gamma  </td> <td>  Lovedeep Saini (Kansas State) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/509654/">Agenda</a> </td>
+          <tr>
+          <td> WW resonance search at low mass </td> <td> Jordan Damgov (Texas Tech) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  March 3, 2016</td>
+          <td> Big data tools in HEP (DIANA)  </td> <td>  Jim Pivarski (Princeton) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/503584/">Agenda</a> </td>
+          <tr>
+          <td> Uses of fast timing in high pileup </td> <td> Lindsey Gray (Fermilab) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  February 4, 2016</td>
+          <td> Exp/Th Discussion on Jamboree Results  </td> <td> Kiel Howe (FNAL), Gordan Krnjaic (FNAL), Marc Weinberg (FSU)  </td>
+          <td><a href="https://indico.cern.ch/event/486242/">Agenda</a> </td>
+<tr>
+<tr>
+          <td rowspan="2">  January 21, 2016</td>
+          <td> Searching for SUSY in jets+MET final state  </td> <td>  Bibhuprasad Mahakud (Tata Inst. of Fundamental Research) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/486238/">Agenda</a> </td>
+          <tr>
+          <td> 13 TeV Diphoton Results  </td> <td> Marc Weinberg (FSU) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  December 3, 2015</td>
+          <td> Probing for New Physics: First Field Measurements from Muon g-2  </td> <td>  Brendan Kiburg (Fermilab) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/459442/">Agenda</a> </td>
+          <tr>
+          <td> Sterile Neutrinos and FNAL's Short-Baseline Neutrino Program  </td> <td> Joe Zennamo (Univ. of Chicago) </td>
+          </tr>
+<tr>
+<tr>
+          <td >  November 19, 2015</td>
+          <td> Guide to the CMS Cold Box  </td> <td>  Jim Strait (Fermilab) </td>
+          <td ><a href="https://indico.cern.ch/event/461594/">Agenda</a> </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  November 5, 2015</td>
+          <td> Opportunities for future collider studies at the LPC  </td> <td>  Ashutosh Kotwal (Duke) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/459438/">Agenda</a> </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  October 1, 2015</td>
+          <td> The Fast TracKer at ATLAS  </td> <td>  Jamie Saxon (UChicago) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/442884/">Agenda</a> </td>
+          <tr>
+          <td> CMS AM-based L1 track triger for Phase-2  </td> <td> Sergo Jindariani (Fermilab) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  September 17, 2015</td>
+          <td> First SUSY (RA2b) results from 13 TeV </td> <td>  Sam Bein (FSU)  </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/442883/">Agenda</a> </td>
+          <tr>
+          <td> Recent HE test beam results  </td> <td> Joe Pastika (Baylor)  </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  September 3, 2015</td>
+          <td> Same-sign dilepton excesses and light top squarks  </td> <td>  Ian Low (Northwestern) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/440448/">Agenda</a> </td>
+          <tr>
+          <td> Higgs boson production through gluon fusion at N^3LO  </td> <td> Elisabetta Furlan (Fermilab) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  Aug 13, 2015</td>
+          <td> HWW at CMS  </td> <td>  Rebeca Gonzalez Suarez (Nebraska) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/405822/">Agenda</a> </td>
+          <tr>
+          <td> Htt at ATLAS  </td> <td> Elias Coniavitis (Freiburg) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  July 16, 2015</td>
+          <td> A W' interpretation of CMS and ATLAS excesses at 2 TeV</td> <td> Bogdan Dobrescu (FNAL) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/405821/">Agenda</a> </td>
+          <tr>
+          <td> A complete model of a 2 TeV W' </td> <td> Zhen Liu (Pittsburgh/FNAL) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="2">  July 2, 2015</td>
+          <td> Exotic Higgs Decays  </td> <td>  Jesse Shelton (UIUC) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/405820/">Agenda</a> </td>
+          <tr>
+          <td> Flavor conscious paired dijets  </td> <td> Fady Bishara (Cincinnati/FNAL) </td>
+          </tr>
+<tr>
+<tr>
+          <td rowspan="3">  June 18, 2015</td>
+          <td> Double Upsilon cross-section measurement </td> <td> Maksat Haytmuradov (UIowa) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/401963/">Agenda</a> </td>
+          <tr>
+          <td> 4 muon excess peak at 18 GeV  </td> <td> Suleyman Durgut (UIowa) </td>
+          </tr>
+	  <tr><td> Measurement of Z-gamma-gamm  </td> <td> Sachiko Toda (KSU) </td> 
+</tr>
+<tr>
+          <td rowspan="3">  June 4, 2015</td>
+          <td> Singlet-like Higgs searches at CMS </td> <td> Petra Merkel (FNAL) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/396418/">Agenda</a> </td>
+          <tr>
+          <td> Singlet-like Higgs at present and future Colliders  </td> <td> Andrea Tesi (UC) </td>
+          </tr>
+	  <tr><td> The Twin Higgs Mechanism and Composite Higgs </td> <td> Matthew Low (UC) </td> 
+</tr>
+<tr>
+          <td rowspan="2">  May 14, 2015</td>
+          <td> Double Higgs Production  </td> <td>  Ahmed Ismail (Argonne/UIC) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/391414/">Agenda</a> </td>
+          <tr>
+          <td> Improving the prediction of non-prompt lepton backgrounds  </td> <td> Giuseppe Cerati (UCSD) </td>
+          </tr>
+<tr>
+          <td rowspan="3">  April 16, 2015</td>
+          <td> Overview of DES program </td> <td> Marcelle Soares Santos (FNAL) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/384441/">Agenda</a> </td>
+          <tr>
+          <td> Virtual Tour of DECam  </td> <td> Brian Nord (FNAL) </td>
+          </tr>
+	  <tr><td> First results from DES </td> <td> Alex Drlica-Wagner (FNAL) </td> </tr>
+<tr>
+          <td rowspan="2">  April 2, 2015</td>
+          <td> All-hadronic SUSY at CMS  </td> <td>  Hannsjorg Weber (FNAL) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/384440/">Agenda</a> </td>
+          <tr>
+          <td> bb asymmetry at D0  </td> <td> Julie Hogan (Brown) </td>
+          </tr>
+<tr>
+          <td rowspan="2">  Mar. 19, 2015</td>
+          <td> Status of the HCAL Phase 1 Upgrade </td> <td> Daryl Hare (FNAL) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/381597/">Agenda</a> </td>
+          <tr>
+          <td> Jet energy corrections  </td> <td> Alexx Perloff (TAMU) </td>
+          </tr>
+<tr>
+          <td rowspan="3">  Feb. 26, 2015</td>
+          <td> Searches for Long-lived particles at CMS </td> <td> Jamie Antonelli (OSU) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/376137/">Agenda</a> </td>
+	  <tr><td> Status of FPIX for Phase 1 </td> <td> John Stupak (Purdue Calumet) </td></tr>
+          <tr><td> Jet performance for Phase 2 (Shaslik) </td> <td> Arka Santra (FSU) </td></tr>
+<tr>
+<tr>
+          <td rowspan="2">  Feb. 12, 2015</td>
+          <td> Overview of dark matter searches </td> <td> Dan Hooper (FNAL) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/366991/">Agenda</a> </td>
+
+          <tr>
+          <td> Axion searches (ADMX)  </td> <td> Aaron Chou (FNAL) </td>
+          </tr>
+<tr>
+          <td rowspan="2">  Dec. 4, 2014</td>
+          <td> An Explanation of the WW excess at the LHC by Jet-veto Resummation</td> <td> Takemichi Okui (Florida State University)</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/341421/">Agenda</a> </td>
+          
+          <tr>
+          <td> WW at CMS </td> <td>Rafael Lopes de Sa (Fermilab) </td>
+          </tr>
+<tr>
+          <td rowspan="2">  Nov. 6, 2014</td>
+          <td> Mono-Higgs searches for Dark Matter at the LHC </td> <td>Alexey Petrov (Wayne State University) </td>
+          <td rowspan="2"><a  href="https://indico.cern.ch/event/345995/">Agenda</a> </td>
+          
+          <tr>
+          <td> TBD </td> <td> </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="2">  Oct. 2, 2014</td>
+          <td> Light Z-primes</td> <td> Ran Lu (University of Wisconsin)</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/341413/">Agenda</a> </td>
+          
+          <tr>
+          <td> Discussion </td> <td> </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="2">  Sept. 18, 2014</td>
+          <td> 2015 Calorimeter Trigger Overview and Firmware</td> <td> Ben Kreis (Fermilab)</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/341284/">Agenda</a> </td>
+          
+          <tr>
+          <td> 2015 Calorimeter Trigger Emulation and Results </td> <td> Inga Bucinskaite (University of Illinois at Chicago) </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="2">  Sept. 4, 2014</td>
+          <td> Lepton Flavor Violating Higgs Decays</td> <td> Roni Harnik (Fermilab)</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/332025">Agenda</a> </td>
+          
+          <tr>
+          <td> Search for LFV Higgs Decay </td> <td> Maria Cepeda Hermida (University of Wisconsin) </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="2">  Aug. 21, 2014</td>
+          <td> Searching for SUSY with leptons and low missing transverse energy</td> <td> Benjamin Taylor Carlson (Carnegie-Mellon University)</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/330138">Agenda</a> </td>
+          
+          <tr>
+          <td> Search for Excited Leptons </td> <td> Lovedeep Kaur Saini (Kansas State University) </td>
+          </tr>
+
+
+
+<tr>
+          <td rowspan="2">  Aug. 7, 2014</td>
+          <td> Collider signatures and Astrophysics constraints of Goldstone bosons</td> <td> Wai-Yee Keung</td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/325515">Agenda</a> </td>
+          
+          <tr>
+          <td> Search for di-Higgs resonances decaying to 4 bottom quarks at CMS </td> <td> Souvik Das (University of Florida) </td>
+          </tr>
+<tr>
+          <td rowspan="2">  July 3, 2014</td>
+          <td> Search for VLQ B' with charge 1/3 in semileptonic channel at CMS</td> <td> Sadia Khalil (Kansas State University) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/325513">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> Search for new physics with tops at ATLAS </td> <td> Kevin Black (Boston University) </td>
+          </tr>
+
+<tr>
+          <td rowspan="3">  June 19, 2014</td>
+          <td> Jet substructure algorithms</td> <td> James William Dolen (State University of New York) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/324031">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> Searches with boosted jets </td> <td> Justin Pilot (University of Californa-Davis) </td>
+         <tr>
+         <td> CSA14 Preparation </td> <td> John Stupak (Purdue University-Calumet) </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="2">  June 5, 2014</td>
+          <td> Timing and Forward Jet Confirmation</td> <td> Yuri Gershtein (Rutgers University) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/321862">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> PUPPI Pileup Mitigation </td> <td> Nhan Viet Tran (FNAL) </td>
+          </tr>
+
+
+
+<tr>
+          <td rowspan="3">  May 15, 2014</td>
+          <td> A->Zh->lltautau</td> <td> Stephane B. Cooperstein (University of Wisconsin) </td>
+          <td rowspan="3"><a href="https://indico.cern.ch/event/319889">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> H->hh->tautaubb </td> <td> Pingchuan Zhao (University of Wisconsin) </td>
+         <tr>
+         <td> Search for H->WW->lnuJ at high mass in exclusive jet bins </td> <td> Bibhuti Parida (Tata Inst. of Fundamental Research) </td>
+          </tr>
+
+
+<tr>
+          <td rowspan="1">  May 17, 2014</td>
+          <td> On estimating fake leptons</td> <td> David Curtin (YITP Stony Brook) </td>
+          <td rowspan="1"><a href="https://indico.cern.ch/event/317138">Agenda</a> </td>
+          </tr>
+
+
+
+
+<tr>
+          <td rowspan="2">  April 17, 2014</td>
+          <td> SUSY with leptons: experience gained with 8 TeV and outlook for 2015</td> <td> Lesya Shchutska (Florida) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/311646">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> Tracking for Run 2 (TBC) </td> <td> Kevin Burkett (FNAL) </td>
+          </tr>
+
+	  <tr>
+          <td>  April 3, 2014</td>
+          <td> Searches for Top partners</td> <td> Aram Avetisyan (Boston) </td>
+          <td><a href="https://indico.cern.ch/event/311646/">Agenda</a> </td>
+          </tr>
+
+
+	  <tr>
+          <td rowspan="2">  March 20, 2014</td>
+          <td> Pileup Algorithms in the L1 trigger for 2015</td> <td> Laura Dodd (Wisconsin) </td>
+          <td rowspan="2"><a href="https://indico.cern.ch/event/308851/">Agenda</a> </td>
+          </tr>
+          <tr>
+          <td> Missing Transverse Energy Trigger Studies for Run 2 </td> <td>  Jia fu Low (Florida) </td>
+          </tr>
 
 	  <tr>
           <td rowspan="2">  March 6, 2014</td>
