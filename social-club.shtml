@@ -1,0 +1,31 @@
+<!--#set var="TITLE" value="LPC Social Club"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value=""-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+
+<h2>LPC Social Club</h2>
+
+<p>From time to time, the LPC convenes informally at a tavern or a restauant
+near Fermilab, as the LPC Social Club.  Downtime together with colleagues,
+both permanent and visting, can be surprisingly productive, and certainly
+restorative.  In casual settings, that latest project may reveal itself to
+be someone else's solved problem.  The nagging inconsistency seen in
+physics analysis, mentioned over a friendly drink, may just turn out to be
+well explained... or the beginning of an exciting discovery.</p>
+
+<p>For more information contact <a href="mailto:stjohn@buphy.bu.edu">stjohn@buphy.bu.edu</a></p>
+
+
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
+<!--#include virtual="/includes/templates/template-subpage-bottom.shtml"-->
