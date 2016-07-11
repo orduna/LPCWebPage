@@ -50,9 +50,23 @@
 		<th width="14%">Attendance</th>
 	</tr>
  <tr>
+  <td class="day">August 11, 2015 at 3 pm</td>
+  <td class="speaker">Andrea Massironi</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/394620/">H &rarr; WW and WW: Run I and prospects for Run II</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
   <td class="day">July 28, 2015 at 3 pm</td>
   <td class="speaker">Freya Blekman</td>
-  <td class="topic"><a href="https://indico.cern.ch/event/388924/"></a></td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388924/">TBA</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">June 30, 2015 at 3 pm</td>
+  <td class="speaker">Alexey Luchinsky</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/394623/">Tetraquarks Composed of 4 Heavy Quarks: Spectroscopy, Decay Modes, Production at Hadronic Colliders</a></td>
   <td class="where">WH11 NE (Sunrise)</td>
   <td class="attendance">  </td>
  </tr>
@@ -72,17 +86,17 @@
  </tr>
  <tr>
   <td class="day">May 27, 2015 at 3 pm</td>
-  <td class="speaker">Sekhar Chivukula (MSU)</td>
-  <td class="topic"><a href="https://indico.cern.ch/event/388917/">Topic: Phenomenology of NP at LHC</a></td>
+  <td class="speaker">Sekhar Chivukula and Elizabeth Simmons (MSU)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388917/">Identifying Dijet Resonances at the LHC</a></td>
   <td class="where">WH11 NE (Sunrise)</td>
-  <td class="attendance">  </td>
+  <td class="attendance">40</td>
  </tr>
  <tr>
   <td class="day">May 13, 2015 at 3 pm</td>
   <td class="speaker">Joey Huston (MSU)</td>
   <td class="topic"><a href="https://indico.cern.ch/event/388916/">PDF's for Run 2 at the LHC</a></td>
   <td class="where">WH11 NE (Sunrise)</td>
-  <td class="attendance">  </td>
+  <td class="attendance">45</td>
  </tr>
         <tr>
 		<td class="day">Apr 30, 2015 at 3:30 pm</td>
@@ -124,7 +138,7 @@
 		<td class="speaker"> Valeri Lebedev (Fermilab) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/373738/">Future colliders: hadrons versus leptons</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance">  45 (40 CMS) </td>
 	</tr>
                 <tr>
 		<td class="day">Feb 17, 2015 at 3 pm</td>
