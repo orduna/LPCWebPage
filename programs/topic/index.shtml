@@ -28,18 +28,33 @@
 
 
 <a name="overview"></a>
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Sanjay Padhi
-</h3>
 
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Sanjay Padhi</h3>
 <h4 class="x-big">October 5th</h4>
 
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Chris Vermilion</h3>
+<h4 class="x-big">October 18th</h4>
 
-<!--
-<h3>Headline</h3>
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+JoAnne Hewett</h3>
+<h4 class="x-big">TBD</h4>
 
-<p>Text.</p>
--->
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Josh Ruderman</h3>
+<h4 class="x-big">November 14th & 15th</h4>
+
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Mariangela Lisanti</h3>
+<h4 class="x-big">December 6th</h4>
+
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Richard Gray</h3>
+<h4 class="x-big">December 13th & 14th</h4>
+
+
+<br />
 
 
 <a name="schedule"></a>
@@ -55,23 +70,73 @@ Sanjay Padhi
 	
 	<tr>
 		<td>Wednesday Oct. 5th at 2pm</td>
-		<td>Sanjay Padhi</td>
+		<td><a href="#Sanjay-Padhi">Sanjay Padhi</a></td>
 		<td>Is SUSY still alive? A CMS perspective </td>
 		<td>WH11 NE (Sunrise)</td>
+	</tr>
+	
+	<tr>
+		<td class="day">Tuesday, Oct. 18th at 3pm</td>
+		<td class="speaker"><a href="#Chris-Vermilion">Chris Vermilion</a></td>
+		<td class="topic">Proceedings from Boost 2011</td>
+		<td class="where">WH11 NE (Sunrise)</td>
+	</tr>
+	
+	<tr>
+		<td class="day">TBD</td>
+		<td class="speaker"><a href="#">JoAnne Hewett</a></td>
+		<td class="topic">TBD</td>
+		<td class="where">WH11 NE (Sunrise)</td>
+	</tr>
+	
+	<tr>
+		<td class="day">Monday, Nov. 14th at 2pm & Tuesday, Nov. 15th at 3pm</td>
+		<td class="speaker"><a href="#Josh-Ruderman">Josh Ruderman</a></td>
+		<td class="topic">Lepton jets and Stealth SUSY</td>
+		<td class="where">WH11 NE (Sunrise)</td>
+	</tr>
+	
+	<tr>
+		<td class="day">Tuesday, Dec. 6th at 3pm</td>
+		<td class="speaker"><a href="#Mariangela-Lisanti">Mariangela Lisanti</a></td>
+		<td class="topic">Study of LHC Searches for a Lepton and Many Jets</td>
+		<td class="where">WH11 NE (Sunrise)</td>
+	</tr>
+	
+	<tr>
+		<td class="day">Tuesday, Dec. 13th at 3pm & Wednesday, Dec. 14th at 2pm</td>
+		<td class="speaker"><a href="#Richard-Gray">Richard Gray</a></td>
+		<td class="topic">Searching for SUSY with leptons</td>
+		<td class="where">WH11 NE (Sunrise)</td>
 	</tr>
 	
 </tbody>
 </table>
 
-<a name="description"></a>
-<h3>Description</h3>
+<br />
 
+
+<a name="description"></a>
+<a name="about"></a>
+<h3>Descriptions / About the scientists</h3>
+<hr noshade="noshade" />
+
+
+<!--//====== Entry ======//-->
+<a name="Sanjay-Padhi"></a>
+<p>
+Guest: Sanjay Padhi<br />
+Date: Wednesday Oct. 5th at 2pm<br />
+Time: 2pm<br />
+Topic: Is SUSY still alive? A CMS perspective<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
 <p>After decades of preparation, the experiments at the Large Hadron Collider (LHC) are taking the first steps toward resolving many long-standing puzzles about fundamental physics at the weak scale. There were high expectations for early discovery of Supersymmetry (SUSY) at the beginning of the LHC search program. This talk summarizes the current experimental status and strategies used by the CMS Collaboration in the search for SUSY involving jets and missing energy in fully hadronic and leptonic final states.  SUSY mass scales in the TeV range are excluded by these preliminary results. This poses the questions: Is SUSY still alive? And is it still accessible within the LHC reach for 7 TeV pp collisions?</p>
 
 
-<a name="about"></a>
-<h3>About the scientist</h3>
-
+<h5>About the scientists</h5>
 <p>Sanjay Padhi earned his Ph.D. in physics from McGill in 2004, providing 
 the first direct evidence for the existence of charm originating from the 
 photon.  He spent four years as a member of the ATLAS collaboration, 
@@ -84,6 +149,136 @@ representative (SUSY) and the co-organizer for LHC Physics Centre at CERN
 recent search for the same-sign di-lepton final state presently provides 
 the most stringent limits on SUSY particle production in CMSSM among the 
 various di-lepton analyses by both ATLAS and CMS.</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="Chris-Vermilion"></a>
+<p>
+Guest: Chris Vermilion<br />
+Date: Tuesday, Oct. 18th<br />
+Time: 3pm<br />
+Topic: Proceedings from Boost 2011<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="JoAnne-Hewett"></a>
+<p>
+Guest: JoAnne Hewett<br />
+Date: TBD<br />
+Time: TBD<br />
+Topic: TBD<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="Josh-Ruderman"></a>
+<p>
+Guest: Josh Ruderman<br />
+Date: Monday, Nov. 14th & Tuesday, Nov. 15th***<br />
+Time: 2pm Monday, 3pm Tuesday<br />
+Topic: Lepton jets and Stealth SUSY<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="XXX"></a>
+<p>
+Guest: <br />
+Date: <br />
+Time: <br />
+Topic: <br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="Mariangela-Lisanti"></a>
+<p>
+Guest: Mariangela Lisanti<br />
+Date: Tuesday, Dec. 6th<br />
+Time: 3pm<br />
+Topic: Study of LHC Searches for a Lepton and Many Jets<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
+
+<!--//====== Entry ======//-->
+<a name="Richard-Gray"></a>
+<p>
+Guest: Richard Gray<br />
+Date: Tuesday, Dec. 13th & Wednesday, Dec. 14th<br />
+Time: 3pm Tuesday, 2pm Wednesday<br />
+Topic: Searching for SUSY with leptons<br />
+Where: WH11 NE (Sunrise)
+</p>
+
+<h5>Description</h5>
+<p>&nbsp;</p>
+
+
+<h5>About the scientists</h5>
+<p>&nbsp;</p>
+
+<hr noshade="noshade" />
+<!--//====== END: Entry ======//-->
+
 
 
 
