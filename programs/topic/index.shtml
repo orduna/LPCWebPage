@@ -29,11 +29,10 @@
 
 <a name="overview"></a>
 <h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Christos Leonidopoulos  &amp; <br />
-Andrey Korytov 
+Sanjay Padhi
 </h3>
 
-<h4 class="x-big">July 6 &amp; July 8</h4>
+<h4 class="x-big">October 5th</h4>
 
 
 <!--
@@ -46,53 +45,45 @@ Andrey Korytov
 <a name="schedule"></a>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody>
-
-<tr>
-	<th width="18%">Day</th> 
-	<th width="30%">Description</th>
-	<th width="28%">Speaker</th>
-	<th width="18%">Where</th>
-</tr>
-
-<tr>
-	<td>Wed, July 6th @ 2:00 pm </td>
-	<td>W' searches at CMS</td>
-	<td>Christos Leonidopoulos (CERN)</td>
-	<td>WH11NE (Sunrise)</td>
-</tr>
-
-<tr>
-	<td>Fri, July 8th @ 2:00 pm </td>
-	<td>Higgs at CMS</td>
-	<td>Andrey Korytov (University of Florida)</td>
-	<td>WH11NE (Sunrise)</td>
-</tr>
-
-
+	
+	<tr>
+		<th width="18%">Day</th> 
+		<th width="28%">Speaker</th>
+		<th width="30%">Topic</th>
+		<th width="18%">Where</th>
+	</tr>
+	
+	<tr>
+		<td>Wednesday Oct. 5th at 2pm</td>
+		<td>Sanjay Padhi</td>
+		<td>Is SUSY still alive? A CMS perspective </td>
+		<td>WH11 NE (Sunrise)</td>
+	</tr>
+	
 </tbody>
 </table>
 
+<a name="description"></a>
+<h3>Description</h3>
+
+<p>After decades of preparation, the experiments at the Large Hadron Collider (LHC) are taking the first steps toward resolving many long-standing puzzles about fundamental physics at the weak scale. There were high expectations for early discovery of Supersymmetry (SUSY) at the beginning of the LHC search program. This talk summarizes the current experimental status and strategies used by the CMS Collaboration in the search for SUSY involving jets and missing energy in fully hadronic and leptonic final states.  SUSY mass scales in the TeV range are excluded by these preliminary results. This poses the questions: Is SUSY still alive? And is it still accessible within the LHC reach for 7 TeV pp collisions?</p>
+
+
 <a name="about"></a>
-<h3>Description about the scientists</h3>
+<h3>About the scientist</h3>
 
-<p><strong>Christos Leonidopoulos</strong><br />
-Christos Leonidopoulos graduated with a PhD from Princeton and spent four years as a postdoc
-at Columbia before becoming a research physics staff at CERN. He was
-recently announced as a Senior LPC Fellow. He has served as deputy
-trigger coordinator at CMS since 2007 and has actively worked on and led
-the analysis effort to search for W' bosons at CMS since 2008. His
-recent search for the W' using the full 2010 dataset excluded masses
-below 1.58 TeV, setting the most stringent limits in the world.</p>
-
-<p><strong>Andrey Korytov </strong><br />
-Andrey Korytov is Colonel Allan R. and Margaret G. Crow Professor at
-University of Florida at Gainesville. Andrey led the CMS Endcap Muon
-Chambers project from the earlier R&D stages starting in 1994 through
-the end of the construction in 2005. He was the co-convener of the CMS
-Higgs Physics Group; coordinating all Higgs boson searches in the CMS
-Collaboration for 2009-2010. He coordinates the UF group effort to
-prepare for discovering the Higgs boson via its 4-muon decay channel at
-LHC. He also leads the program of jet fragmentation studies at CDF.</p>
+<p>Sanjay Padhi earned his Ph.D. in physics from McGill in 2004, providing 
+the first direct evidence for the existence of charm originating from the 
+photon.  He spent four years as a member of the ATLAS collaboration, 
+including time as a Chancellor's Distinguished Fellowship at 
+Wisconsin-Madison, before becoming a scientist with UCSD in 2008. He has 
+been preparing for enhancements leading to new physics such as 
+supersymmetry for the past several years. Currently he is the CMS 
+representative (SUSY) and the co-organizer for LHC Physics Centre at CERN 
+(LPCC) workshops on the characterization of new physics at the LHC. His 
+recent search for the same-sign di-lepton final state presently provides 
+the most stringent limits on SUSY particle production in CMSSM among the 
+various di-lepton analyses by both ATLAS and CMS.</p>
 
 
 
