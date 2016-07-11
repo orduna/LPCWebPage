@@ -28,21 +28,21 @@
 
 
 <a name="overview"></a>
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">Marina Artuso</h3>
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">Markus Klute</h3>
 
-<h4 class="x-big">March 9, 10</h4>
+<h4 class="x-big">June 6, 7</h4>
 
 <p>
-<img src="http://sumagazine.syr.edu/2010fall-winter/images/su_people/artuso.jpg" width="150" />
+<img src="http://web.mit.edu/physics/images/faculty/klute_markus.jpg" width="120" />
 </p>
 
-<h4>Highlight on early physics results from LHCb</h4>
+<h3>Higgs Searches with CMS</h3>
 
-<p>The LHCb experiment had a very good start of its physics program during the 2010 data taking run, collecting about 37 pb-1of pp collisions at a center of mass energy of 7 TeV. Results obtained from these data show that the detector is robust and functioning well. I will use a few selected results to illustrate the many facets of charm and beauty physics that we are poised to explore in the next few years. </p>
+<p>The hunt for the Higgs boson at the Large Hadron Collider started with a successful data taking campaign in 2010. An order of magnitude more data has been collected in 2011 to this point. I will give an overview of Higgs searches in CMS, present the results obtained using 2010 data and an outlook for 2011 and 2012.</p>
 
-<h4>The LHCb Upgrade</h4>
+<h3> Higgs Searches with Tau Decays in CMS</h3>
 
-<p>The primary goal of LHCb is to measure the effects of new particles or forces beyond the Standard Model. While LHCb will be able to measure a host of interesting channels in heavy flavor decays in the upcoming few years, a limit of about 1 fb -1 of data per year cannot be overcome without upgrading the detector. The upgraded detector, read out at 40MHz, will permit a much more flexible software-based triggering strategy and thus implement a large increase not only in data rate, as the detector would collect 5 fb -1 per year, but also the ability to increase trigger efficiencies especially in decays to hadronic final states. Finally, the flexibility allowed by a software trigger, will allow to tune the selection criteria to the most interesting channels, with scope beyond flavor. </p>
+<p>Searches for Higgs bosons in final states with tau leptons are performed by CMS. In the Standard Model the branching fraction for Higgs bosons below 130 GeV/c2 is approximately 10%. Models beyond the Standard Model, like the MSSM, predict enhancement in the production cross section and branching ratios to taus, resulting in increased sensitivity over a broad Higgs boson mass range. In addition, the production of charged Higgs bosons can be studied using tau final states. I summarize our Higgs boson analysis efforts using tau final states.</p>
 
 
 
@@ -57,16 +57,14 @@
 </tr>
 
 <tr>
-<td>Monday, May 9th at 14:00</td>
-<td><a href="https://indico.cern.ch/conferenceDisplay.py?confId=138779"> 
-Highlight on early physics results from LHCb</a></td>
+<td>Tuesday, June 7 at 15:00</td>
+<td>Higgs Searches with CMS</td>
 <td>WH11NE Sunrise</td>
 </tr>
 
 <tr>
-<td>Tuesday, May 10th at 14:00</td>
-<td><a href="https://indico.cern.ch/conferenceDisplay.py?confId=138780"> 
-The LHCb Upgrade</a></td>
+<td>Wednesday, June 8 at 14:00</td>
+<td>Higgs Searches with Tau Decays in CM</td>
 <td>WH11NE Sunrise</td>
 </tr>
 
@@ -76,11 +74,7 @@ The LHCb Upgrade</a></td>
 <a name="about"></a>
 <h3>Description about the scientist</h3>
 
-<p>Marina Artuso works in experimental elementary particle physics, focusing on charm and beauty decays. She initially pursued this work at CLEO , and then worked on R&D towards the BTeV experiment at Fermilab. She is now working at the LHCb experiment, taking data at the LHC proton-proton collider, at CERN, and is doing R&D towards its vertex detector upgrade. Key research interests are decays, which probe fundamental Standard Model parameters, such as quark mixing, and decays that may unveil new physics manifestations in the heavy flavor sector.</p>
- 
-<p>She is also interested on several advanced detector technologies applied to heavy flavor experimental studies. She is presently working on R&D on pixel devices considered for the upgrade of the precision vertex detector in LHCb (VELO). Prior to this work she was engaged in the construction of the CLEO Ring Imaging Cherenkov detector (RICH), and on R&D towards the BTeV RICH.</p>
- 
-<p>She is a Professor of Physics at Syracuse University, and she has previously held research positions at Columbia University and Cornell University. She has a Ph.D. in Physics from Northwestern University, and a laurea in Nuclear Engineering with concentration in Electronics from the Politecnico of Milan, Italy.</p>
+<p>Markus Klute joined the MIT Physics Department in July 2009 as an Assistant Professor. He received his Diploma in 2000 and Ph.D. in 2004 from Rheinische Friedrich-Wilhems University, Bonn, Germany, with research on the OPAL, ATLAS and DZero experiments. After earning his Ph.D., Klute joined MIT as a postdoctoral associate and later as a research scientist, working on the CDF and CMS experiments. In 2007 he accepted a position as an Associate Professor with tenure at Goerg-August University in Goettingen, Germany, where he started a research group on the ATLAS experiment before returning to MIT to work on the CMS experiment.</p>
 
 
 
