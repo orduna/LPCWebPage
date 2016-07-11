@@ -27,32 +27,11 @@
 <h2>Topic of the Week</h2>
 
 
-<a name="overview"></a>
+<a name="nextGuest"></a>
 
 <h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Sanjay Padhi</h3>
-<h4 class="x-big">October 5th</h4>
-
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Chris Vermilion</h3>
-<h4 class="x-big">October 18th</h4>
-
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-JoAnne Hewett</h3>
-<h4 class="x-big">TBD</h4>
-
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Josh Ruderman</h3>
-<h4 class="x-big">November 14th & 15th</h4>
-
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Mariangela Lisanti</h3>
-<h4 class="x-big">December 6th</h4>
-
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
-Richard Gray</h3>
-<h4 class="x-big">December 13th & 14th</h4>
-
+<a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Nathaniel_Craig.shtml"> Nathaniel Craig (Institue of Advanced Study)</a></h3>
+<h4 class="x-big">September 18, 2013</h4>
 
 <br />
 
@@ -67,218 +46,83 @@ Richard Gray</h3>
 		<th width="30%">Topic</th>
 		<th width="18%">Where</th>
 	</tr>
-	
 	<tr>
-		<td>Wednesday Oct. 5th at 2pm</td>
-		<td><a href="#Sanjay-Padhi">Sanjay Padhi</a></td>
-		<td>Is SUSY still alive? A CMS perspective </td>
-		<td>WH11 NE (Sunrise)</td>
-	</tr>
-	
-	<tr>
-		<td class="day">Tuesday, Oct. 18th at 3pm</td>
-		<td class="speaker"><a href="#Chris-Vermilion">Chris Vermilion</a></td>
-		<td class="topic">Proceedings from Boost 2011</td>
+		<td class="day">April 17 at 2:00 pm</td>
+		<td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Mayda_Velasco.shtml"> Mayda Velasco (Northwestern) </a></td>
+		<td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=246234">Search for the Higgs boson in the Z boson plus a photon channel and other dilepton plus photon topologies in pp collisions using the CMS detector</a></td>
 		<td class="where">WH11 NE (Sunrise)</td>
 	</tr>
-	
+        <tr>
+                <td class="day">April 18 at 2:00 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Adi_Bornheim.shtml">Adi Bornheim (CalTech) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=246476">Picosecond timing for precision physics at High Luminosity LHC</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+                <td class="day">May 24 at 1:30 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Natalia_Toro.shtml"> Natalia Toro (Perimeter Institute) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=251659">Closing the Door on Weak-Scale SUSY</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
 	<tr>
-		<td class="day">TBD</td>
-		<td class="speaker"><a href="#">JoAnne Hewett</a></td>
-		<td class="topic">TBD</td>
+		<td class="day">May 30 at 1:30 pm</td>
+		<td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Markus_Schulze.shtml"> Markus Schulze (Argonne) </a></td>
+		<td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=250534">Associated top quark pair production: A new era in top quark physics</a></td>
 		<td class="where">WH11 NE (Sunrise)</td>
 	</tr>
-	
+
+        <tr>
+                <td class="day">June 19 at 1:30 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Hooman_Davoudiasl.shtml"> Hooman Davoudiasl (Brookhaven) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256285">Higgs Decays as a Window into the Dark Sector</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+
+        <tr>
+                <td class="day">June 24 at 2:00 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Jared_Evans.shtml"> Jared Evans (Rutgers University) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256277">LHC searches examined via the RPV MSSM: Part 1 - R-parity violation and higgsinos </a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+
+        <tr>
+                <td class="day">June 25 at 3:00 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Yevgeny_Kats.shtml"> Yevgeny Kats (Rutgers University) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256279">LHC searches examined via the RPV MSSM: Part 2 - stops and gluinos </a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+
+        <tr>
+                <td class="day">September 18 at 1:00 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Nathaniel_Craig.shtml"> Nathaniel Craig (IAS Princeton) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270221">Searching for Signs of the Second Higgs</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+
+        <tr>
+                <td class="day">September 20 at 1:00 pm</td>
+                <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Paolo_Giacomelli.shtml"> Paolo Giacomelli (INFN) </a></td>
+                <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270223">Future physics prospects at LHC and HL-LHC</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+
 	<tr>
-		<td class="day">Monday, Nov. 14th at 2pm & Tuesday, Nov. 15th at 3pm</td>
-		<td class="speaker"><a href="#Josh-Ruderman">Josh Ruderman</a></td>
-		<td class="topic">Lepton jets and Stealth SUSY</td>
+		<td class="day">September 23 at 2:00 pm</td>
+		<td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Deepak_Kar_1.shtml"> Deepak Kar (Glasgow) </a></td>
+		<td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270225">Improving Monte Carlo generators for ATLAS Run 2</a></td>
 		<td class="where">WH11 NE (Sunrise)</td>
 	</tr>
-	
 	<tr>
-		<td class="day">Tuesday, Dec. 6th at 3pm</td>
-		<td class="speaker"><a href="#Mariangela-Lisanti">Mariangela Lisanti</a></td>
-		<td class="topic">Study of LHC Searches for a Lepton and Many Jets</td>
+		<td class="day">September 24 at 3:00 pm</td>
+		<td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Deepak_Kar_2.shtml"> Deepak Kar (Glasgow) </a></td>
+		<td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270227">Jet substructure studies in ATLAS</a></td>
 		<td class="where">WH11 NE (Sunrise)</td>
 	</tr>
-	
-	<tr>
-		<td class="day">Tuesday, Dec. 13th at 3pm & Wednesday, Dec. 14th at 2pm</td>
-		<td class="speaker"><a href="#Richard-Gray">Richard Gray</a></td>
-		<td class="topic">Searching for SUSY with leptons</td>
-		<td class="where">WH11 NE (Sunrise)</td>
-	</tr>
-	
+
 </tbody>
 </table>
 
 <br />
-
-
-<a name="description"></a>
-<a name="about"></a>
-<h3>Descriptions / About the scientists</h3>
-<hr noshade="noshade" />
-
-
-<!--//====== Entry ======//-->
-<a name="Sanjay-Padhi"></a>
-<p>
-Guest: Sanjay Padhi<br />
-Date: Wednesday Oct. 5th at 2pm<br />
-Time: 2pm<br />
-Topic: Is SUSY still alive? A CMS perspective<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>After decades of preparation, the experiments at the Large Hadron Collider (LHC) are taking the first steps toward resolving many long-standing puzzles about fundamental physics at the weak scale. There were high expectations for early discovery of Supersymmetry (SUSY) at the beginning of the LHC search program. This talk summarizes the current experimental status and strategies used by the CMS Collaboration in the search for SUSY involving jets and missing energy in fully hadronic and leptonic final states.  SUSY mass scales in the TeV range are excluded by these preliminary results. This poses the questions: Is SUSY still alive? And is it still accessible within the LHC reach for 7 TeV pp collisions?</p>
-
-
-<h5>About the scientists</h5>
-<p>Sanjay Padhi earned his Ph.D. in physics from McGill in 2004, providing 
-the first direct evidence for the existence of charm originating from the 
-photon.  He spent four years as a member of the ATLAS collaboration, 
-including time as a Chancellor's Distinguished Fellowship at 
-Wisconsin-Madison, before becoming a scientist with UCSD in 2008. He has 
-been preparing for enhancements leading to new physics such as 
-supersymmetry for the past several years. Currently he is the CMS 
-representative (SUSY) and the co-organizer for LHC Physics Centre at CERN 
-(LPCC) workshops on the characterization of new physics at the LHC. His 
-recent search for the same-sign di-lepton final state presently provides 
-the most stringent limits on SUSY particle production in CMSSM among the 
-various di-lepton analyses by both ATLAS and CMS.</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="Chris-Vermilion"></a>
-<p>
-Guest: Chris Vermilion<br />
-Date: Tuesday, Oct. 18th<br />
-Time: 3pm<br />
-Topic: Proceedings from Boost 2011<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="JoAnne-Hewett"></a>
-<p>
-Guest: JoAnne Hewett<br />
-Date: TBD<br />
-Time: TBD<br />
-Topic: TBD<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="Josh-Ruderman"></a>
-<p>
-Guest: Josh Ruderman<br />
-Date: Monday, Nov. 14th & Tuesday, Nov. 15th***<br />
-Time: 2pm Monday, 3pm Tuesday<br />
-Topic: Lepton jets and Stealth SUSY<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="XXX"></a>
-<p>
-Guest: <br />
-Date: <br />
-Time: <br />
-Topic: <br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="Mariangela-Lisanti"></a>
-<p>
-Guest: Mariangela Lisanti<br />
-Date: Tuesday, Dec. 6th<br />
-Time: 3pm<br />
-Topic: Study of LHC Searches for a Lepton and Many Jets<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
-
-<!--//====== Entry ======//-->
-<a name="Richard-Gray"></a>
-<p>
-Guest: Richard Gray<br />
-Date: Tuesday, Dec. 13th & Wednesday, Dec. 14th<br />
-Time: 3pm Tuesday, 2pm Wednesday<br />
-Topic: Searching for SUSY with leptons<br />
-Where: WH11 NE (Sunrise)
-</p>
-
-<h5>Description</h5>
-<p>&nbsp;</p>
-
-
-<h5>About the scientists</h5>
-<p>&nbsp;</p>
-
-<hr noshade="noshade" />
-<!--//====== END: Entry ======//-->
-
 
 
 
