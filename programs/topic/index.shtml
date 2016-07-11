@@ -1,4 +1,4 @@
-!--#set var="TITLE" value="Topic of the Week"-->
+<!--#set var="TITLE" value="Topic of the Week"-->
 <!--#set var="NAV1_CSS" value=""-->
 <!--#set var="NAV2_CSS" value=""-->
 <!--#set var="NAV3_CSS" value=""-->
@@ -50,6 +50,62 @@
 		<th width="14%">Attendance</th>
 	</tr>
  <tr>
+  <td class="day">April 5, 2016 at 3 pm</td>
+  <td class="speaker">Tim Tait (UC Irvine)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/435348/">DM at LHC 13 TeV</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">December 15, 2015 at 3 pm</td>
+  <td class="speaker">Lauren Tompkins (Stanford)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/436213/">ATLAS Higgs physics prospects and the FTK system</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">December 2, 2015 at 3 pm</td>
+  <td class="speaker">Mike Williams (MIT)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/441090/">Topic: New Physics with LHCb</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">November 10, 2015 at 3 pm</td>
+  <td class="speaker">Matt Strassler (Harvard)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/434913/">New Physics at 13 TeV</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">November 3, 2015 at 3 pm</td>
+  <td class="speaker">Felix Yu (Mainz)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/446915/">The Coannihilation Codex</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">October 13, 2015 at 3 pm</td>
+  <td class="speaker">Andr&eacute; De Gouv&ecirc;a (NorthWestern)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/435347/">Neutrino Physics</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">September 29, 2015 at 3 pm</td>
+  <td class="speaker">Dmitri Denisov (Fermilab)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/435345/">High Energy Colliders: Past, Present and Future</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">August 18, 2015 at 3 pm</td>
+  <td class="speaker">Phil Harris (CERN)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/435200/">Dark Matter at LHC</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
   <td class="day">August 11, 2015 at 3 pm</td>
   <td class="speaker">Andrea Massironi</td>
   <td class="topic"><a href="https://indico.cern.ch/event/394620/">H &rarr; WW and WW: Run I and prospects for Run II</a></td>
@@ -57,9 +113,16 @@
   <td class="attendance">  </td>
  </tr>
  <tr>
-  <td class="day">July 28, 2015 at 3 pm</td>
-  <td class="speaker">Freya Blekman</td>
-  <td class="topic"><a href="https://indico.cern.ch/event/388924/">TBA</a></td>
+  <td class="day">August 4, 2015 at 3 pm</td>
+  <td class="speaker">Freya Blekman (VUB)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388924/">The rarest of rare decays in the top quark sector: multitops</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">July 7, 2015 at 3 pm</td>
+  <td class="speaker">Paul Lujan (Princeton)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/401748/"-->First Results of the Pixel Luminosity Telescope at CMS</a></td>
   <td class="where">WH11 NE (Sunrise)</td>
   <td class="attendance">  </td>
  </tr>
@@ -82,7 +145,7 @@
   <td class="speaker">Nausheen Shah</td>
   <td class="topic"><a href="https://indico.cern.ch/event/388922/">Phenomenological implications of the naturally aligned NMSSM</a></td>
   <td class="where">WH11 NE (Sunrise)</td>
-  <td class="attendance">  </td>
+  <td class="attendance">  33 </td>
  </tr>
  <tr>
   <td class="day">May 27, 2015 at 3 pm</td>
