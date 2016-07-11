@@ -1,4 +1,4 @@
-<!--#set var="TITLE" value="Topic of the Week"-->
+!--#set var="TITLE" value="Topic of the Week"-->
 <!--#set var="NAV1_CSS" value=""-->
 <!--#set var="NAV2_CSS" value=""-->
 <!--#set var="NAV3_CSS" value=""-->
@@ -89,14 +89,14 @@
 		<td class="speaker">Daniel Whiteson (UC Irvine)</td>
 		<td class="topic"><a href="https://indico.cern.ch/event/388911/">Improved Particle Searches with Deep Learning</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance"> 40 (40 CMS) </td>
 	</tr>
         <tr>
 		<td class="day">Apr 15, 2015 at 3 pm</td>
 		<td class="speaker"> Mariangela Lisanti (Princeton) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/378957/">Searching for Hidden Dark Sectors at the LHC</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance">  55 (45 CMS) </td>
 	</tr>
         <tr>
                 <td class="day">Apr 7, 2015 at 3 pm</td>
@@ -117,7 +117,7 @@
 		<td class="speaker">Anadi Canepa (TRIUMF)</td>
 		<td class="topic"><a href="https://indico.cern.ch/event/378943/">Search for Supersymmetry at ATLAS and physics potential of the HL-LHC </a> </td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance"> 50 (50 CMS) </td>
 	</tr>
                 <tr>
 		<td class="day">Mar 5, 2015 at 3 pm</td>
@@ -138,7 +138,7 @@
 		<td class="speaker"> LianTao Wang  (University of Chicago) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/367002/">New Physics targets for LHC Run 2</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance">  50 (40 CMS) </td>
 	</tr>
                 <tr>
 		<td class="day">December 9 at 3 pm</td>
