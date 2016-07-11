@@ -28,22 +28,19 @@
 
 
 <a name="overview"></a>
-<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">Markus Klute</h3>
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+Christos Leonidopoulos  &amp; <br />
+Andrey Korytov 
+</h3>
 
-<h4 class="x-big">June 6, 7</h4>
+<h4 class="x-big">July 6 &amp; July 8</h4>
 
-<p>
-<img src="http://web.mit.edu/physics/images/faculty/klute_markus.jpg" width="120" />
-</p>
 
-<h3>Higgs Searches with CMS</h3>
+<!--
+<h3>Headline</h3>
 
-<p>The hunt for the Higgs boson at the Large Hadron Collider started with a successful data taking campaign in 2010. An order of magnitude more data has been collected in 2011 to this point. I will give an overview of Higgs searches in CMS, present the results obtained using 2010 data and an outlook for 2011 and 2012.</p>
-
-<h3> Higgs Searches with Tau Decays in CMS</h3>
-
-<p>Searches for Higgs bosons in final states with tau leptons are performed by CMS. In the Standard Model the branching fraction for Higgs bosons below 130 GeV/c2 is approximately 10%. Models beyond the Standard Model, like the MSSM, predict enhancement in the production cross section and branching ratios to taus, resulting in increased sensitivity over a broad Higgs boson mass range. In addition, the production of charged Higgs bosons can be studied using tau final states. I summarize our Higgs boson analysis efforts using tau final states.</p>
-
+<p>Text.</p>
+-->
 
 
 <a name="schedule"></a>
@@ -51,30 +48,51 @@
 <tbody>
 
 <tr>
-<th width="12%">Day</th> 
-<th width="65%">Description</th>
-<th width="18%">Where</th>
+	<th width="18%">Day</th> 
+	<th width="30%">Description</th>
+	<th width="28%">Speaker</th>
+	<th width="18%">Where</th>
 </tr>
 
 <tr>
-<td>Tuesday, June 7 at 15:00</td>
-<td>Higgs Searches with CMS</td>
-<td>WH11NE Sunrise</td>
+	<td>Wed, July 6th @ 2:00 pm </td>
+	<td>W' searches at CMS</td>
+	<td>Christos Leonidopoulos (CERN)</td>
+	<td>WH11NE (Sunrise)</td>
 </tr>
 
 <tr>
-<td>Wednesday, June 8 at 14:00</td>
-<td>Higgs Searches with Tau Decays in CM</td>
-<td>WH11NE Sunrise</td>
+	<td>Fri, July 8th @ 2:00 pm </td>
+	<td>Higgs at CMS</td>
+	<td>Andrey Korytov (University of Florida)</td>
+	<td>WH11NE (Sunrise)</td>
 </tr>
+
 
 </tbody>
 </table>
 
 <a name="about"></a>
-<h3>Description about the scientist</h3>
+<h3>Description about the scientists</h3>
 
-<p>Markus Klute joined the MIT Physics Department in July 2009 as an Assistant Professor. He received his Diploma in 2000 and Ph.D. in 2004 from Rheinische Friedrich-Wilhems University, Bonn, Germany, with research on the OPAL, ATLAS and DZero experiments. After earning his Ph.D., Klute joined MIT as a postdoctoral associate and later as a research scientist, working on the CDF and CMS experiments. In 2007 he accepted a position as an Associate Professor with tenure at Goerg-August University in Goettingen, Germany, where he started a research group on the ATLAS experiment before returning to MIT to work on the CMS experiment.</p>
+<p><strong>Christos Leonidopoulos</strong><br />
+Christos Leonidopoulos graduated with a PhD from Princeton and spent four years as a postdoc
+at Columbia before becoming a research physics staff at CERN. He was
+recently announced as a Senior LPC Fellow. He has served as deputy
+trigger coordinator at CMS since 2007 and has actively worked on and led
+the analysis effort to search for W' bosons at CMS since 2008. His
+recent search for the W' using the full 2010 dataset excluded masses
+below 1.58 TeV, setting the most stringent limits in the world.</p>
+
+<p><strong>Andrey Korytov </strong><br />
+Andrey Korytov is Colonel Allan R. and Margaret G. Crow Professor at
+University of Florida at Gainesville. Andrey led the CMS Endcap Muon
+Chambers project from the earlier R&D stages starting in 1994 through
+the end of the construction in 2005. He was the co-convener of the CMS
+Higgs Physics Group; coordinating all Higgs boson searches in the CMS
+Collaboration for 2009-2010. He coordinates the UF group effort to
+prepare for discovering the Higgs boson via its 4-muon decay channel at
+LHC. He also leads the program of jet fragmentation studies at CDF.</p>
 
 
 
