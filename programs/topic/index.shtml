@@ -49,26 +49,124 @@
 		<th width="13%">Where</th>
 		<th width="14%">Attendance</th>
 	</tr>
+ <tr>
+  <td class="day">July 28, 2015 at 3 pm</td>
+  <td class="speaker">Freya Blekman</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388924/"></a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">June 17, 2015 at 3 pm</td>
+  <td class="speaker">Sho Maruyama</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388923/">Search for supersymmetry in the vector boson fusion topology at CMS: Run I results and Run II prospects</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">June 3, 2015 at 3 pm</td>
+  <td class="speaker">Nausheen Shah</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388922/">Phenomenological implications of the naturally aligned NMSSM</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">May 27, 2015 at 3 pm</td>
+  <td class="speaker">Sekhar Chivukula (MSU)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388917/">Topic: Phenomenology of NP at LHC</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+ <tr>
+  <td class="day">May 13, 2015 at 3 pm</td>
+  <td class="speaker">Joey Huston (MSU)</td>
+  <td class="topic"><a href="https://indico.cern.ch/event/388916/">PDF's for Run 2 at the LHC</a></td>
+  <td class="where">WH11 NE (Sunrise)</td>
+  <td class="attendance">  </td>
+ </tr>
+        <tr>
+		<td class="day">Apr 30, 2015 at 3:30 pm</td>
+		<td class="speaker">Daniel Whiteson (UC Irvine)</td>
+		<td class="topic"><a href="https://indico.cern.ch/event/388911/">Improved Particle Searches with Deep Learning</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance">  </td>
+	</tr>
+        <tr>
+		<td class="day">Apr 15, 2015 at 3 pm</td>
+		<td class="speaker"> Mariangela Lisanti (Princeton) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/378957/">Searching for Hidden Dark Sectors at the LHC</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance">  </td>
+	</tr>
+        <tr>
+                <td class="day">Apr 7, 2015 at 3 pm</td>
+                <td class="speaker"> Alan Weinstein (CalTech) </td>
+                <td class="topic"><a href="https://indico.cern.ch/event/373740/">Status of the search for gravitational waves with Advanced LIGO </a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+                <td class="attendance">  54 (49 CMS) </td>
+        </tr>
+                <tr>
+		<td class="day">Mar 17, 2015 at 3 pm</td>
+		<td class="speaker"> Maurizio Pierini (CERN) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/373739/">Data scouting for discovery of low energy new phenomena </a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance"> 48 (43 CMS) </td>
+	</tr>
+                <tr>
+		<td class="day">Mar 11, 2015 at 3 pm</td>
+		<td class="speaker">Anadi Canepa (TRIUMF)</td>
+		<td class="topic"><a href="https://indico.cern.ch/event/378943/">Search for Supersymmetry at ATLAS and physics potential of the HL-LHC </a> </td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance">  </td>
+	</tr>
+                <tr>
+		<td class="day">Mar 5, 2015 at 3 pm</td>
+		<td class="speaker"> Valeri Lebedev (Fermilab) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/373738/">Future colliders: hadrons versus leptons</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance">  </td>
+	</tr>
+                <tr>
+		<td class="day">Feb 17, 2015 at 3 pm</td>
+		<td class="speaker"> Itay Yavin (McMaster University / Perimeter Institute) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/367003/">New experiments and tools for old and new physics</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance"> 55 (43 CMS) </td>
+	</tr>
+                <tr>
+		<td class="day">Feb 10, 2015 at 3 pm</td>
+		<td class="speaker"> LianTao Wang  (University of Chicago) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/367002/">New Physics targets for LHC Run 2</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance">  </td>
+	</tr>
+                <tr>
+		<td class="day">December 9 at 3 pm</td>
+		<td class="speaker"> Brock Tweedie (University of Pittsburgh) </td>
+		<td class="topic"><a href="https://indico.cern.ch/event/357226/">Deriving New LHC Constraints on Displaced Superparticles</a></td>
+                <td class="where">WH11 NE (Sunrise)</td>
+	        <td class="attendance"> 48 (40 CMS)  </td>
+	</tr>
                 <tr>
 		<td class="day">November 12 at 3 pm</td>
 		<td class="speaker"> Raffaele D'Agnolo (IAS) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/343182/">Higgs Couplings, a Tale of Two Scales</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance"> 50 (40 CMS) </td>
 	</tr>
                 <tr>
 		<td class="day">October 29 at 3 pm</td>
 		<td class="speaker"> Andreas Jung (FNAL) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/343181/">Recent top quark results at the Tevatron</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance"> 45  </td>
 	</tr>
                 <tr>
 		<td class="day">September 17 at 3 pm</td>
 		<td class="speaker"> Frank Hartmann (Karlsruhe) </td>
 		<td class="topic"><a href="https://indico.cern.ch/event/340296/">Student lecture about silicon sensor technology and sensor testing</a></td>
                 <td class="where">WH11 NE (Sunrise)</td>
-	        <td class="attendance">  </td>
+	        <td class="attendance"> 54 total  </td>
 	</tr>
                 <tr>
 		<td class="day">August 12 at 3 pm</td>
