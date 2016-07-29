@@ -1,0 +1,45 @@
+<!--#set var="TITLE" value="Topic of the Week | About the program"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+
+<h2>Topic of the Week | <br />
+    <span class="yellow">About the program</span></h2>
+
+
+<h3>About:</h3>
+
+<p>The LHC Physics Center (LPC) at Fermilab initiated the 'Topic of the Week' (TOTW)
+program not only to foster interactions between LPC-based experimentalists and the theory
+community, but also to ensure an efficient connection between the LPC and the broader
+experimental community.</p>
+
+<p>Visiting TOTW scientists typically give one or a series of seminars on a specific topic
+related to LHC theory/phenomenology or experimental methods and offer "office hours"
+for follow-up conversations.  Not only is the TOTW program immensely useful for LPC
+collaborators, but we have received feedback that discussions with the wide range
+of LPC-resident experts are also useful for visitors.</p>
+
+<h3>Support:</h3>
+
+<p>Funding for visitors provided by U.S. Department of Energy.</p>
+
+<h3>Contact:</h3>
+
+<p>Questions? Suggestions? Email LPC Topic of the Week coordinators: <br />
+<a href="mailto:artur.apresyan@cern.ch">Artur Apresyan </a>, <a href="mailto:lantone@gmail.com">Jamie Antonelli</a></p>
+
+<p>Topic of the Week Speakers Committee: Anadi Canepa, Paddy Fox, Zhen Liu, Lovedeep Saini, Lesya Shchutska and John Stupak.<br/>
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
+<!--#include virtual="/includes/templates/template-subpage-bottom.shtml"-->

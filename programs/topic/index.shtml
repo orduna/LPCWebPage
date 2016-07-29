@@ -1,0 +1,577 @@
+<!--#set var="TITLE" value="Topic of the Week"-->
+<!--#set var="NAV1_CSS" value=""-->
+<!--#set var="NAV2_CSS" value=""-->
+<!--#set var="NAV3_CSS" value=""-->
+<!--#set var="NAV4_CSS" value="active"-->
+<!--#set var="NAV5_CSS" value=""-->
+<!--#set var="NAV6_CSS" value=""-->
+<!--#set var="NAV7_CSS" value=""-->
+
+
+<!--#include virtual="/includes/templates/template-subpage-top.shtml"-->
+<!--//========== DO NOT REMOVE CODE ABOVE =========//-->
+
+
+
+
+
+<!--//========================================
+============== SIDEBAR =======================
+========================================//-->
+<!--#include virtual="/programs/topic/inc.sidebar.shtml"-->
+<!--//========================================
+============== END: SIDEBAR ==================
+========================================//-->
+
+
+<h3>Topic of the Week</h3>
+<!--
+<h3><span class="red">Next Speaker</span></h3>
+
+<a name="nextGuest"></a>
+
+<h3 class="yellow  xx-big" style="margin: 0 0 0.1em 0;">
+<td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Steven_Worm.shtml"> Steven Worm (STFC - Rutherford Appleton Lab.) </a></td>
+<h4 class="x-big">February 13th, 2014</h4>
+
+<br />
+
+-->
+
+<a name="schedule"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <th width="18%">Day</th>
+            <th width="25%">Speaker</th>
+            <th width="30%">Link to the Talk</th>
+            <th width="13%">Where</th>
+            <th width="14%">Attendance</th>
+        </tr>
+        <tr>
+            <td class="day">October 18, 2016 at 3 pm</td>
+            <td class="speaker">Jessie Shelton (U. of Illinois at Urbana-Champaign)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/521762/">Higgs Exotic, displaced</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">September 27, 2016 at 3 pm</td>
+            <td class="speaker">Carlos Wagner (U. of Chicago)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/521758/">SUSY (including pMSSM)</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">September 13, 2016 at 3 pm</td>
+            <td class="speaker">Doug Glenzinski (Fermilab)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/525733/">Mu2e and g-2</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">August 30, 2016 at 3 pm</td>
+            <td class="speaker">Chris Quigg (Fermilab)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/531882/">New results from LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">August 16, 2016 at 3 pm</td>
+            <td class="speaker">Stefania Gori (University of Cincinnati)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/525723/">TBD</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">July 26, 2016 at 3 pm</td>
+            <td class="speaker">Si Xie (Caltech)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/538777/">Precision timing in CMS</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <!--tr>
+            <td class="day">August 2, 2016 at 3 pm</td>
+            <td class="speaker">Samar Safi-Harb (U. of Manitoba)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/515167/">Supernovae and neutron stars</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr-->
+        <tr>
+            <td class="day">June 21, 2016 at 3 pm</td>
+            <td class="speaker">Shufang Su (U. of Arizona)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/525722/">BSM searches with Higgs</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">May 31, 2016 at 3 pm</td>
+            <td class="speaker">Nhan Tran (Fermilab)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/538776/">Dissecting Jets and Missing Energy Searches</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">May 3, 2016 at 3 pm</td>
+            <td class="speaker">Lauren Tompkins (Stanford)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/436213/">ATLAS Higgs physics prospects and the FTK system</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">April 27, 2016 at 3 pm</td>
+            <td class="speaker">Howard Baer (U. of Oklahoma)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/521755/">EWKkinos at LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">April 12, 2016 at 3 pm</td>
+            <td class="speaker">Gordon Kane (U. of Michigan)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/506172/">Compactifying M-theory to 4D to describe our world, and predicting LHC Superpartner and Higgs data</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">April 5, 2016 at 3 pm</td>
+            <td class="speaker">Tim Tait (UC Irvine)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/435348/">DM at LHC 13 TeV</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">March 10, 2016 at 3 pm</td>
+            <td class="speaker">Dominick Olivito (UCSD)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/507370/">Searches for Dark Matter and Supersymmetry at 13 TeV with CMS</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">March 8, 2016 at 3 pm</td>
+            <td class="speaker">Gray Rybka (U. of Washington)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/493356/">Axion searches and measurements of neutrino mass</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">March 2, 2016 at 3 pm</td>
+            <td class="speaker">Edward W. Kolb (U. of Chicago)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/492132/">The status of dark matter</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">February 16, 2016 at 3 pm</td>
+            <td class="speaker">David W. Miller (U. of Chicago)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/495891/">Boosting the search for new physics: jet substructure and SUSY searches in Run 2 and beyond</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">December 15, 2015 at 3 pm</td>
+            <td class="speaker">Duccio Abbaneo (CERN)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/465082/">The High-Luminosity Upgrade of the CMS Tracker</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">December 2, 2015 at 3 pm</td>
+            <td class="speaker">Mike Williams (MIT)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/441090/">LHCb: Results, Status &amp; Prospects</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">November 10, 2015 at 3 pm</td>
+            <td class="speaker">Matt Strassler (Harvard)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/434913/">New Physics at 13 TeV</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">November 3, 2015 at 3 pm</td>
+            <td class="speaker">Felix Yu (Mainz)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/446915/">The Coannihilation Codex</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">October 27, 2015 at 3 pm</td>
+            <td class="speaker">Sebastian White (CERN/Princeton)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/456279/">The Case for Fast Timing in CMS at HL-LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">October 13, 2015 at 3 pm</td>
+            <td class="speaker">Andr&eacute; De Gouv&ecirc;a (NorthWestern)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/435347/">Neutrino Physics</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">September 29, 2015 at 3 pm</td>
+            <td class="speaker">Dmitri Denisov (Fermilab)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/435345/">High Energy Colliders: Past, Present and Future</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 55 (45 CMS)  </td>
+        </tr>
+        <tr>
+            <td class="day">August 18, 2015 at 3 pm</td>
+            <td class="speaker">Phil Harris (CERN)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/435200/">Dark Matter at LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">August 11, 2015 at 3 pm</td>
+            <td class="speaker">Andrea Massironi</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/394620/">H &rarr; WW and WW: Run I and prospects for Run II</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">August 4, 2015 at 3 pm</td>
+            <td class="speaker">Freya Blekman (VUB)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388924/">The rarest of rare decays in the top quark sector: multitops</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">July 7, 2015 at 3 pm</td>
+            <td class="speaker">Paul Lujan (Princeton)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/401748/"-->First Results of the Pixel Luminosity Telescope at CMS</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">June 30, 2015 at 3 pm</td>
+            <td class="speaker">Alexey Luchinsky</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/394623/">Tetraquarks Composed of 4 Heavy Quarks: Spectroscopy, Decay Modes, Production at Hadronic Colliders</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">June 17, 2015 at 3 pm</td>
+            <td class="speaker">Sho Maruyama</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388923/">Search for supersymmetry in the vector boson fusion topology at CMS: Run I results and Run II prospects</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  </td>
+        </tr>
+        <tr>
+            <td class="day">June 3, 2015 at 3 pm</td>
+            <td class="speaker">Nausheen Shah</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388922/">Phenomenological implications of the naturally aligned NMSSM</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  33 </td>
+        </tr>
+        <tr>
+            <td class="day">May 27, 2015 at 3 pm</td>
+            <td class="speaker">Sekhar Chivukula and Elizabeth Simmons (MSU)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388917/">Identifying Dijet Resonances at the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">40</td>
+        </tr>
+        <tr>
+            <td class="day">May 13, 2015 at 3 pm</td>
+            <td class="speaker">Joey Huston (MSU)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388916/">PDF's for Run 2 at the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">45</td>
+        </tr>
+        <tr>
+            <td class="day">Apr 30, 2015 at 3:30 pm</td>
+            <td class="speaker">Daniel Whiteson (UC Irvine)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/388911/">Improved Particle Searches with Deep Learning</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 40 (40 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Apr 15, 2015 at 3 pm</td>
+            <td class="speaker"> Mariangela Lisanti (Princeton) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/378957/">Searching for Hidden Dark Sectors at the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  55 (45 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Apr 7, 2015 at 3 pm</td>
+            <td class="speaker"> Alan Weinstein (CalTech) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/373740/">Status of the search for gravitational waves with Advanced LIGO </a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  54 (49 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Mar 17, 2015 at 3 pm</td>
+            <td class="speaker"> Maurizio Pierini (CERN) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/373739/">Data scouting for discovery of low energy new phenomena </a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 48 (43 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Mar 11, 2015 at 3 pm</td>
+            <td class="speaker">Anadi Canepa (TRIUMF)</td>
+            <td class="topic"><a href="https://indico.cern.ch/event/378943/">Search for Supersymmetry at ATLAS and physics potential of the HL-LHC </a> </td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 50 (50 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Mar 5, 2015 at 3 pm</td>
+            <td class="speaker"> Valeri Lebedev (Fermilab) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/373738/">Future colliders: hadrons versus leptons</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  45 (40 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Feb 17, 2015 at 3 pm</td>
+            <td class="speaker"> Itay Yavin (McMaster University / Perimeter Institute) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/367003/">New experiments and tools for old and new physics</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 55 (43 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">Feb 10, 2015 at 3 pm</td>
+            <td class="speaker"> LianTao Wang  (University of Chicago) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/367002/">New Physics targets for LHC Run 2</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">  50 (40 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">December 9 at 3 pm</td>
+            <td class="speaker"> Brock Tweedie (University of Pittsburgh) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/357226/">Deriving New LHC Constraints on Displaced Superparticles</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 48 (40 CMS)  </td>
+        </tr>
+        <tr>
+            <td class="day">November 12 at 3 pm</td>
+            <td class="speaker"> Raffaele D'Agnolo (IAS) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/343182/">Higgs Couplings, a Tale of Two Scales</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 50 (40 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">October 29 at 3 pm</td>
+            <td class="speaker"> Andreas Jung (FNAL) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/343181/">Recent top quark results at the Tevatron</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 45  </td>
+        </tr>
+        <tr>
+            <td class="day">September 17 at 3 pm</td>
+            <td class="speaker"> Frank Hartmann (Karlsruhe) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/340296/">Student lecture about silicon sensor technology and sensor testing</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 54 total  </td>
+        </tr>
+        <tr>
+            <td class="day">August 12 at 3 pm</td>
+            <td class="speaker"> Joey Huston (Michigan State U.) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/334273/">PDFs for the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 24 total (18 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">August 11 at 3 pm</td>
+            <td class="speaker"> Joey Huston (Michigan State U.) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/334268/">The new Les Houches high precision wish list</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 10 total (8 CMS) </td>
+        </tr>
+        <tr>
+            <td class="day">July 31 at 3 pm</td>
+            <td class="speaker"> Ajay Kumar (U. of Delhi) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/333024/">Recent results on HWW and probing WW production in VBF topology, both with semileptonic final states</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 24 total (24 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">July 22 at 3 pm</td>
+            <td class="speaker"> Matt Reece (Harvard) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/326155/">Natural SUSY's Last Hiding Places</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 54 total (44 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">June 17 at 3 pm</td>
+            <td class="speaker"> Tim Cohen (SLAC) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/309017/">Jet Substructure by Accident</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 42 total (38 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">June 5 at 3 pm</td>
+            <td class="speaker"> Jochen Ott (Hamburg University) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/322208/">Practical Statistics</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 28 total (28 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">TBD</td>
+            <!--  <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Giuliano_Panico.shtml"> Giuliano Panico (CERN) </a></td> -->
+            <td class="speaker"> Giuliano Panico (CERN) </td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=">ETBD</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> RESCHEDULED </td>
+        </tr>
+        <tr>
+            <td class="day">April 30 at 3 pm</td>
+            <td class="speaker"> David Curtin (Stonybrook) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/309015/">SUSY in Standard Model Standard Candles</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 47 total (40 CMS)</td>
+            
+        </tr>
+        <tr>
+            <td class="day">April 17 at 4 pm</td>
+            <td class="speaker"> Greg Landsberg (Brown) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/312425/">New developments in dark matter searches at colliders - Greg Landsberg (Brown)</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 68 total (59 CMS)</td>
+            
+            
+        </tr>
+        <tr>
+            <td class="day">April 15 at 3 pm</td>
+            <td class="speaker"> Kaustubh Agashe (Maryland) </td>
+            <td class="topic"><a href="https://indico.cern.ch/event/309014/">Using energy-peaks to measure particle (new and old) masses</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 38 total (29 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">March 18 at 3 pm</td>
+            <!--  <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Rouven_Essig.shtml"> Rouven Essig (Stonybrook) </a></td> -->
+            <td class="speaker"> Rouven Essig (Stonybrook) </td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=297202">Exotic Decays of the 125 GeV Higgs Boson</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 40 total (30 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">March 4 at 3 pm</td>
+            <!--  <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Sally_Dawson.shtml"> Sally Dowson (Brookhaven) </a></td> -->
+            <td class="speaker"> Sally Dawson (Brookhaven) </td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=303593">Higgs Couplings</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 59 total (49 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">February 18 at 3 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Frank_Petriello.shtml"> Frank Petriello (Northwestern University) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=300524">Opportunities in Higgs physics at the LHC Run II</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 54 total (39 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">February 13 at 3 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Steven_Worm.shtml"> Steven Worm (STFC - Rutherford Appleton Lab.) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=300522">The Search for Dark Matter at the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance"> 49 total (41 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">February 5 at 3 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Rouven_Essig.shtml"> Rouven Essig (Stonybrook) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=297202">Exotic Decays of the 125 GeV Higgs Boson</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">Cancelled b/c of snow</td>
+        </tr>
+        <tr>
+            <td class="day">January 23 at 1 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Felix_Yu_2.shtml"> Felix Yu (FNAL) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=293365">Measuring CP Violation in h -> tau+tau- at Colliders</a></td>
+            <td class="where">WH2 NE (Snake Pit)</td>
+            <td class="attendance">26 total (15 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">January 21 at 3 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2014/Felix_Yu_1.shtml"> Felix Yu (FNAL) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=293364">Fully Exploring Exotic Production of the 126 GeV Higgs</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+            <td class="attendance">27 total (17 CMS)</td>
+        </tr>
+        <tr>
+            <td class="day">December 3 at 3:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Lian_Tao_Wang.shtml"> Lian-Tao Wang (U Chicago) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=285021">New signatures of dark matter at the LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">November 19 at 3:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Hugh_Lippincott.shtml"> Hugh Lippincott (Fermilab) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=283122">Direct searches for Dark Matter</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">September 24 at 3:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Deepak_Kar_2.shtml"> Deepak Kar (Glasgow) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270227">Jet substructure studies in ATLAS</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">September 23 at 2:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Deepak_Kar_1.shtml"> Deepak Kar (Glasgow) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270225">Improving Monte Carlo generators for ATLAS Run 2</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">September 20 at 1:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Paolo_Giacomelli.shtml"> Paolo Giacomelli (INFN) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270223">Future physics prospects at LHC and HL-LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">September 18 at 1:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Nathaniel_Craig.shtml"> Nathaniel Craig
+                (Rutgers) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=270221">Searching for Signs of the Second Higgs</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">June 25 at 3:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Yevgeny_Kats.shtml"> Yevgeny Kats (Rutgers University) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256279">LHC searches examined via the RPV MSSM: Part 2 - stops and gluinos </a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">June 24 at 2:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Jared_Evans.shtml"> Jared Evans (Rutgers University) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256277">LHC searches examined via the RPV MSSM: Part 1 - R-parity violation and higgsinos </a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">June 19 at 1:30 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Hooman_Davoudiasl.shtml"> Hooman Davoudiasl (Brookhaven) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=256285">Higgs Decays as a Window into the Dark Sector</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">May 30 at 1:30 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Markus_Schulze.shtml"> Markus Schulze (Argonne) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=250534">Associated top quark pair production: A new era in top quark physics</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">May 24 at 1:30 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Natalia_Toro.shtml"> Natalia Toro (Perimeter Institute) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=251659">Closing the Door on Weak-Scale SUSY</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">April 18 at 2:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Adi_Bornheim.shtml">Adi Bornheim (CalTech) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=246476">Picosecond timing for precision physics at High Luminosity LHC</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+        <tr>
+            <td class="day">April 17 at 2:00 pm</td>
+            <td class="speaker"><a href="http://lpc.fnal.gov/programs/topic/speakers/2013/Mayda_Velasco.shtml"> Mayda Velasco (Northwestern) </a></td>
+            <td class="topic"><a href="https://indico.cern.ch/conferenceDisplay.py?confId=246234">Search for the Higgs boson in the Z boson plus a photon channel and other dilepton plus photon topologies in pp collisions using the CMS detector</a></td>
+            <td class="where">WH11 NE (Sunrise)</td>
+        </tr>
+    </tbody>
+</table>
+
+<br />
+
+
+
+<!--//========== DO NOT REMOVE CODE BELOW =========//-->
